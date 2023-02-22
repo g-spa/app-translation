@@ -1,0 +1,3304 @@
+{
+ "lastUpdate": 16500279499,
+ "ratingEnabled": true,
+ "numberOfAssets": 10,
+ "increaseNumberOfAssets": true,
+ "showAssetsWhatsNew": true,
+ "isXmasEnabled": false,
+ "useOldChat": false,
+ "shouldHideChat": true,
+ "disableCallingTunes": true,
+ "showNeo": true,
+ "showNewOrderFlow": true,
+ "showNewTaxWordings": true,
+ "cherryTopBadge": "cherry_top_badge",
+ "privacyPolicyTermsVersion": "2",
+"mobilePaymentCodeWording": "Payment code",
+"c1IntroScreenPrepaidBenefitText": "Free 2GB for 7 days on every prepaid, every month, whenever you want",
+ "xmasActiveWeek": "4",
+ "xmasModal": {
+ "title": " ",
+"description": "COSMOTE keeps offering you presents! Discover this holidays’ great gifts!",
+ "button": "Open your gift"
+ },
+ "xmasWordings": {
+ "modalTitle": " ",
+ "modalDescription": "This year too, COSMOTE is offering you gifts to enjoy or give away! Open the great gifts of the holidays!",
+ "modalButton": "Open your gifts",
+"giftPageTitle": "Merry Christmas",
+"giftPageDescription": "Activate your gifts or give them to your loved ones!",
+"giftPageTimerTitle": "Get them while they are still available!",
+ "giftsTabTitle": "Gifts",
+"historyTabTitle": "Gift History",
+"historyActivatedTitle": "Gifts activated for your personal use",
+"historyReceivedTitle": "Gifts you received",
+"historyDonatedTitle": "Gifts you sent",
+"mobileActivationTitle": "Select a connection and choose whether to activate the gift for this connection, or donate it to a loved one",
+"fixedActivationTitle": "Select a connection and choose whether to activate the gift for this connection or donate it to a loved one",
+ "xmas_history_mobile_self_activation": "Mobile gifts you activated",
+ "xmas_history_fixed_self_activation": "Landline gifts you activated",
+"xmas_history_tv_self_activation": "COSMOTE TV gifts you activated",
+ "xmas_history_mobile_received": "Mobile gifts you received",
+ "xmas_history_fixed_received": "Landline gifts you received",
+ "xmas_history_mobile_donated": "Mobile gifts you sent",
+ "xmas_history_fixed_donated": "Landline gifts you sent",
+ "tvPackageName": "COSMOTE TV Entertainment Pack for 1 month"
+ },
+ "P2PBiometricsTerms": {
+ "version": 1,
+"bodyText": "To identify yourself, you need to follow the following digital procedure:\n\n• Find suitable proof of identity and attach it\n• Take a photo (selfie)\n• Take video\n The photo & video will be used to verify your identity.",
+ "checkBoxText": "I have been informed and I consent to the use of my biometric data related to my facial image, for the purpose of identifying and verifying my identity"
+ },
+ "NeoBiometricsTerms": {
+ "version": 1,
+"bodyText": "The process is very simple and easy: all you need to do is find a well-lit spot to photograph your proof of identity and take a selfie.\n\n Don't worry, you're in good hands, your details are safe.",
+ "checkBoxText": "I have been informed and I consent to the use of my data for the purposes of identifying and verifying my details."
+ },
+"splashScreenWording": "A better world for all.",
+ "updatePrompt_Android": {
+ "forceUpdate": true,
+ "minAppVersion": "8.12.0",
+"updateMessage": "Important! The app has been upgraded and needs to be updated to the latest version."
+ },
+ "updatePrompt_iOS": {
+ "forceUpdate": true,
+ "minAppVersion": "8.12.0",
+"updateMessage": "Important! The app has been upgraded and needs to be updated to the latest version."
+ },
+ "downtimeLibModel": {
+ "appDowntime": {
+ "title": "My COSMOTE",
+ "message": "Due to a system upgrade, some functionalities of the application related to top-up of prepaid balance, balance check, activation of packages & services may not be available until 05:00 a.m. Thank you for your understanding",
+ "isAvailable": true,
+ "fromTime": 1675292400,
+ "toTime": 1675306800
+ },
+ "appPromptUpdateAndroid": {
+ "title": "My COSMOTE",
+ "message": "There is a new, improved version of the app. Download it now!",
+ "version": "9.1.2"
+ },
+ "appPromptUpdateiOS": {
+ "title": "My COSMOTE",
+ "message": "There is a new, improved version of the app. Download it now!",
+ "version": "9.1.2"
+ },
+ "appForceUpdateAndroid": {
+ "title": "My COSMOTE",
+"message": "Important! The application has been upgraded and needs to be updated to the latest version.",
+ "version": "8.12.0"
+ },
+ "appForceUpdateiOS": {
+ "title": "My COSMOTE",
+ "message": "Important! The application has been upgraded and needs to be updated to the latest version.",
+ "version": "8.12.0"
+ },
+ "featureDowntime": {
+ "block5digits": {
+ "title": "MyCosmote",
+ "message": "Due to a system upgrade, enabling and disabling blocks is currently not available. Thank you for your understanding.",
+ "type": "Downtime",
+ "fromTime": 1675292400,
+ "toTime": 1675306800
+ },
+ "topUpWithCard": {
+ "title": "MyCosmote",
+"message": "Due to a system upgrade, top-up functionalities with Credit / Debit or PayPal, are not available. Thank you for your understanding.",
+ "type": "Downtime",
+ "fromTime": 1675292400,
+ "toTime": 1675306800
+ },
+ "topUpAutoPeriodic": {
+ "title": "MyCosmote",
+"message": "Due to a system upgrade, renewal by direct debit is not available. Thank you for your understanding.",
+ "type": "Downtime",
+ "fromTime": 1675292400,
+ "toTime": 1675306800
+ },
+ "prepaidPackets": {
+ "title": "MyCosmote",
+ "message": "Due to a system upgrade, packages & services are temporarily not available for activation. Thank you for your understanding.",
+ "type": "Downtime",
+ "fromTime": 1675292400,
+ "toTime": 1675306800
+ },
+ "topUpWith16DigitsCode": {
+ "title": "MyCosmote",
+"message": "Due to a system upgrade, top-up with a 16-digit code is not available. Thank you for your understanding.",
+ "type": "Downtime",
+ "fromTime": 1675292400,
+ "toTime": 1675306800
+ }
+ }
+ },
+ "remainderThreshold": 0.2,
+ "dataBoostId": "1100",
+ "webUrls": [
+ {
+ "key": "sdpBackend",
+ "url": "https://whatsup.cosmotemyview.gr/ExtAppSecurityProxy/authenticate/"
+ }
+ ],
+ "shopDetailsDisclaimers": {
+"cosmoteTvGo": " Prices include VAT 24% and Mobile Telephony Subscriber Fee. More information here.",
+ "creditCardPurchases": " Prices include VAT and Mobile Telephony Subscriber Fee. Packages and offers provided free of charge are not subject to VAT and other fees. More information here.",
+"neoWithNewTaxWordings": "Prices include VAT and Mobile Subscriber Fee. For registered subscribers aged 15 – 29, a zero Mobile Fee applies for use of the gov.gr app. More information here.",
+"neoWithoutNewTaxWordings": "Prices include VAT 24% and Mobile Telephony Subscriber Fee. More information here.",
+ "default": "Prices include VAT, but not Mobile Telephony Subscriber Fee. Packages and offers provided free of charge are not subject to VAT and other fees. More information here",
+"postpaidAndHybrid": "Price includes VAT and Mobile Telephony Subscriber Fee 10%. Packages and offers provided free of charge do not incur VAT and mobile fee. More information here",
+"hybridWithBalancePurchaseTypeOnly": "VAT included. The Mobile Telephony Subscriber Fee has already been paid.",
+"dataOnlyDisclaimer": "Price incudes VAT. No Mobile Telephony Fee applies. Packages and offers provided free of charge do not incur VAT and mobile fee. More information here"
+ },
+ "cosmoteWorldItems": [
+ {
+ "position": 1,
+ "title": "What's Up",
+ "appStoreUrl": "itms-apps://itunes.apple.com/app/id535247768",
+ "playStoreUrl": "market://details?id=gr.cosmote.whatsup",
+ "deepLinkUrl_iOS": "whatsup.gr://?action=open",
+ "imagePath": "cosmote_wu_icon"
+ },
+ {
+ "position": 3,
+ "title": "Cosmote TV Go",
+ "appStoreUrl": "itms-apps://itunes.apple.com/app/id979517462",
+ "playStoreUrl": "market://details?id=gr.ote.otetvgo.androidphone",
+ "deepLinkUrl_iOS": "",
+ "imagePath": "cosmote_tvgo_icon"
+ },
+ {
+ "position": 4,
+ "title": "COSMOTE TV SMART REMOTE",
+ "appStoreUrl": "itms-apps://itunes.apple.com/app/id1344888088",
+ "playStoreUrl": "market://details?id=gr.cosmote.cosmotetv.smartremote",
+ "deepLinkUrl_iOS": "",
+ "imagePath": "smart_remote_app_icon"
+ },
+ {
+ "position": 5,
+ "title": "11888",
+ "appStoreUrl": "itms-apps://itunes.apple.com/app/id585165606",
+ "playStoreUrl": "market://details?id=gr.ote_11888",
+ "deepLinkUrl_iOS": "app11888://open",
+ "imagePath": "cosmote_11888_icon_1"
+ },
+ {
+ "position": 6,
+ "title": "Cosmote Prepaid",
+ "appStoreUrl": "itms-apps://itunes.apple.com/app/id1204916825",
+ "playStoreUrl": "market://details?id=gr.cosmote.prepaid",
+ "deepLinkUrl_iOS": "gr.cosmote.prepaid://open?",
+ "imagePath": "cosmote_prepaid_icon"
+ },
+ {
+ "position": 7,
+ "title": "COSMOTE Best Connect app",
+ "appStoreUrl": "",
+ "playStoreUrl": "market://details?id=gr.cosmote.connect",
+ "deepLinkUrl_iOS": "",
+ "imagePath": "cosmote_best_connect_icon"
+ },
+ {
+ "position": 8,
+ "title": "COSMOTE Mobile Security",
+ "appStoreUrl": "itms-apps://itunes.apple.com/app/id1213366267",
+ "playStoreUrl": "market://details?id=gr.cosmote.mobilesecurity",
+ "deepLinkUrl_iOS": "",
+ "imagePath": "cosmote_security_icon_1"
+ },
+ {
+ "position": 9,
+ "title": "Cosmote UFixit",
+ "appStoreUrl": "itms-apps://itunes.apple.com/app/id1235021952",
+ "playStoreUrl": "market://details?id=gr.cosmote.ufixit",
+ "deepLinkUrl_iOS": "",
+ "imagePath": "cosmote_ufix_icon"
+ },
+ {
+ "position": 10,
+ "title": "Cosmote Smart Home",
+ "appStoreUrl": "itms-apps://itunes.apple.com/us/app/cosmote-smarthome/id1269120916",
+ "playStoreUrl": "market:/details?id=gr.cosmote.smarthome",
+ "deepLinkUrl_iOS": "",
+ "imagePath": "cosmote_smarthome_icon"
+ }
+ ],
+ "lastBalanceWordingsUpdate": 1508487001,
+ "balanceWordings": [
+ {
+ "category": "mobile",
+ "subMessage": "Mobile",
+ "description": "to mobiles"
+ },
+ {
+ "category": "fixed",
+ "subMessage": "Fixed",
+ "description": "to landlines"
+ },
+ {
+ "category": "international",
+ "subMessage": "International",
+ "description": "to international"
+ },
+ {
+ "category": "toMobile",
+"subMessage": "MOBILES",
+ "description": "to mobiles"
+ },
+ {
+ "category": "toNationalEU",
+ "subMessage": "NATIONAL & INTERNATIONAL",
+ "description": "to national and international networks within the EU"
+ },
+ {
+ "category": "toInterNoEU",
+"subMessage": "INTERNATIONAL OUTSIDE E. E.",
+ "description": "to international networks outside the EU"
+ },
+ {
+ "category": "toInternetUnlimited",
+ "subMessage": "",
+ "description": "from the offer."
+ },
+ {
+ "category": "toEuropeanUnion",
+ "subMessage": "EU",
+ "description": "to EU"
+ },
+ {
+ "category": "toNational",
+"subMessage": "EVERYONE",
+ "description": "to all"
+ },
+ {
+ "category": "toWhat",
+ "subMessage": "WHAT'S UP",
+ "description": "to WHAT'S UP"
+ },
+ {
+ "category": "toCosmote",
+ "subMessage": "COSMOTE",
+"description": "to COSMOTE mobiles"
+ },
+ {
+ "category": "toCosmoteMobFixed",
+ "subMessage": "COSMOTE",
+ "description": "to COSMOTE mobiles and landlines"
+ },
+ {
+ "category": "toCosmoteSMS",
+ "subMessage": "COSMOTE",
+ "description": "to COSMOTE"
+ },
+ {
+ "category": "toCyprus",
+ "subMessage": "CYPRUS",
+ "description": "to Cyprus"
+ },
+ {
+ "category": "toAlbaniaItaly",
+"subMessage": "ALBANIA-ITALY",
+ "description": "to Albania & Italy"
+ },
+ {
+ "category": "toWhatNight",
+"subMessage": "10pm – 8am",
+"description": "from 10:00 pm- 08:00 am"
+ },
+ {
+ "category": "toNight",
+"subMessage": "10pm – 8am",
+"description": "from 10:00 pm - 08:00 am"
+ },
+ {
+ "category": "toInternational",
+"subMessage": "INTERNATIONAL",
+ "description": "to international landlines and mobiles"
+ },
+ {
+ "category": "toEurope",
+"subMessage": "WITHIN EUROZONE",
+ "description": "to Eurozone A & B"
+ },
+ {
+ "category": "toRomania",
+"subMessage": "ROMANIA",
+ "description": "to Romania"
+ },
+ {
+ "category": "toBulgaria",
+"subMessage": "BULGARIA",
+ "description": "to Bulgaria"
+ },
+ {
+ "category": "toAMCItaly",
+"subMessage": "TELECOM ALBANIA &ITALY",
+ "description": "to Telecom Albania & Italy"
+ },
+ {
+ "category": "toFrog",
+ "subMessage": "FROG",
+ "description": "to Frog"
+ },
+ {
+ "category": "toFixed",
+"subMessage": "FIXED",
+ "description": "to landlines"
+ },
+ {
+ "category": "toOtherNetworks",
+"subMessage": "OTHER NETWORKS / MOBILES & FIXED",
+ "description": "to other mobile and fixed networks"
+ },
+ {
+ "category": "toOTETVGO",
+ "subMessage": "COSMOTE TV GO",
+ "description": "for COSMOTE TV GO"
+ },
+ {
+ "category": "toBulgariaRomania",
+"subMessage": "BULGARIA &ROMANIA",
+ "description": "to Bulgaria and Romania"
+ },
+ {
+ "category": "toNationalFixed",
+"subMessage": "FIXED",
+ "description": "to landlines"
+ },
+ {
+ "category": "toBlackberry",
+ "subMessage": "BLACKBERRY",
+"description": "via Blackberry settings"
+ },
+ {
+ "category": "toNationalMobile",
+"subMessage": "MOBILES",
+ "description": "to mobiles"
+ },
+ {
+ "category": "toMobile",
+"subMessage": "MOBILES",
+ "description": "to mobiles"
+ },
+ {
+ "category": "toOtherMobile",
+"subMessage": "OTHER MOBILES",
+ "description": "to other mobile networks"
+ },
+ {
+ "category": "toCosmoteAndNationalFixed",
+"subMessage": "COSMOTE & NATIONAL LANDLINES",
+ "description": "to COSMOTE & national landlines"
+ },
+ {
+ "category": "toCosmoteMobile",
+ "subMessage": "COSMOTE",
+"description": "to COSMOTE mobiles"
+ },
+ {
+ "category": "toFixedAndVpn",
+ "subMessage": "LANDLINE & INTRA-COMPANY ]",
+ "description": "to landline and in-intra-company"
+ },
+ {
+ "category": "toCyprusMobile",
+"subMessage": "CYPRUS MOBILES",
+"description": "to Cyprus mobiles"
+ },
+ {
+ "category": "toCyprusFixed",
+"subMessage": "CYPRUS LANDLINES",
+ "description": "to Cyprus landlines"
+ },
+ {
+ "category": "toFamily",
+ "subMessage": "FAMILY PLAN MEMBERS",
+ "Description": "To Family Plan Members"
+ },
+ {
+ "category": "toVpn",
+"subMessage": "INTRACOMPANY",
+ "description": "to intra- company"
+ },
+ {
+ "category": "toNationalAndInternationalFixed",
+"subMessage": "NATIONAL &INTERNATIONAL LANDLINES",
+"Description": "To national & international landlines"
+ },
+ {
+ "category": "toNationalAndInternational",
+"subMessage": "NATIONAL &INTERNATIONAL MOBILES",
+ "description": "to national & international mobiles"
+ },
+ {
+ "category": "toInternationalMobile",
+"subMessage": "INTERNATIONAL MOBILES",
+ "description": "to international mobile"
+ },
+ {
+ "category": "toMobileIntranet",
+ "subMessage": "INTRANET",
+ "description": "to access the Intranet"
+ },
+ {
+ "category": "toInternetIntranet",
+ "subMessage": "INTERNET/INTRANET",
+ "description": "to access the Intranet/ Internet"
+ },
+ {
+ "category": "toInternationalFixed",
+"subMessage": "INTERNATIONAL LANDLINE",
+ "description": "to international landlines"
+ },
+ {
+ "category": "toInternetDayPass",
+ "subMessage": "INTERNET DAY PASS",
+ "description": "to Internet Day Pass"
+ },
+ {
+ "category": "toIntranet",
+ "subMessage": "INTRANET",
+ "description": "for INTRANET"
+ },
+ {
+ "category": "toExtraSim",
+ "subMessage": "EXTRA SIM",
+ "description": "to navigate the Extra Sim"
+ },
+ {
+ "category": "toSpotify",
+ "subMessage": "SPOTIFY",
+ "description": "for streaming via Spotify"
+ },
+ {
+ "category": "XmasOffer",
+"subMessage": "EVERYONE",
+ "description": "to all"
+ },
+ {
+ "category": "toInternetRoaming",
+ "subMessage": "ROAMING",
+"description": "for roaming within Eurozone A & B"
+ },
+ {
+ "category": "toOtherNetworksMobile",
+"subMessage": "OTHER NETWORKS",
+ "description": "to other Mobiles"
+ },
+ {
+ "category": "toHOMEDOUBLEPLAYSIM",
+ "subMessage": "HOME DOUBLE PLAY",
+ "description": "for Home Double Play"
+ },
+ {
+ "category": "toWeekend",
+ "subMessage": "SK",
+"description": "for the weekend"
+ },
+ {
+ "category": "toSpeedBooster",
+ "subMessage": "SPEED BOOSTER",
+ "description": "for Speed Booster"
+ },
+ {
+ "category": "toCOSMOTETV",
+ "subMessage": "COSMOTE TV GO",
+ "description": "for COSMOTE TV GO"
+ },
+ {
+ "category": "offerMB",
+"subMessage": "OFFER",
+ "description": "from offer"
+ },
+ {
+ "category": "toPlayNowGB",
+ "subMessage": "VIDEO & MUSIC STREAMING",
+ "description": "for Video & Music Streaming"
+ },
+ {
+ "category": "toPlayNowUnlimited",
+ "subMessage": "VIDEO & MUSIC STREAMING",
+ "description": "for Video & Music Streaming"
+ },
+ {
+ "category": "toChatNow",
+ "subMessage": "CHATTING",
+ "description": "for Chatting"
+ },
+ {
+ "category": "toFamilyVoice",
+ "subMessage": "FAMILY",
+"description": "to Mobile Family members"
+ },
+ {
+ "category": "toSocialChat",
+ "subMessage": " SOCIAL MEDIA & CHAT ",
+ "description": " for Social Media & Chat"
+ },
+ {
+ "category": "toSocialNow",
+ "subMessage": " SOCIAL MEDIA & CHAT ",
+ "description": " for Social Media & Chat"
+ },
+ {
+ "category": "AVT",
+ "subMessage": "",
+"description": "gift from Time Renewal"
+ },
+ {
+ "category": "toGigaNowWeek",
+ "subMessage": "",
+ "description": ""
+ },
+ {
+ "category": "toGigaNowWeekend",
+ "subMessage": "",
+ "description": ""
+ },
+ {
+ "category": "toGiGaNowDay",
+ "subMessage": "",
+ "description": ""
+ },
+ {
+ "category": "toStudentExtraGB",
+ "subMessage": "",
+ "description": ""
+ },
+ {
+ "category": "coneonemin",
+"subMessage": "EVERYONE",
+ "description": "to all"
+ },
+ {
+ "category": "conetwomin",
+"subMessage": "EVERYONE",
+ "description": "to all"
+ },
+ {
+ "category": "coneIntraVoice",
+ "subMessage": "COSMOTE ONE",
+"description": "to the COSMOTE One landline"
+ },
+ {
+ "category": "toOne",
+ "subMessage": "COSMOTE ONE",
+"description": "to COSMOTE One members"
+ },
+ {
+ "category": "toInternetAfterDark",
+ "subMessage": "00:00 - 08:00",
+"description": " from 00:00 - 08:00"
+ },
+ {
+ "category": "toGeorgia",
+"subMessage": "GEORGIA",
+ "description": "to Georgia"
+ },
+ {
+ "category": "toFilipinnes",
+ "subMessage": "Philippines",
+ "description": "to Philippines"
+ },
+ {
+ "category": "toRussia",
+"subMessage": "RUSSIA-UKRAINE",
+"description": "to Russia-Ukraine"
+ },
+ {
+ "category": "intratalk",
+ "subMessage": "COSMOTE One",
+"description": "to COSMOTE One members"
+ },
+ {
+ "category": "Permanent14",
+ "subMessage": "",
+ "description": "from offer"
+ },
+ {
+ "category": "toInternationalAll",
+ "subMessage": "International",
+"description": "International fixed & International mobile"
+ },
+ {
+ "category": "toUNLIMITED",
+"subMessage": "EVERYONE",
+ "description": "to all"
+ }
+ ],
+ "familyModel": {
+ "dataCapMaxValue": 20480,
+ "dataCapStep": 100
+ },
+ "neoWordingModel": {
+ "pre2neoLandingImage": "",
+ "post2neoLandingImage": "",
+ "newNeoLandingImage": "",
+ "portInNeoStepsImage": "",
+ "newNeoStepsImage": "",
+"pre2neoSuccessTitle": "Welcome to the world of the first digital mobile plan, COSMOTE Neo.",
+ "pre2neoSuccessSubtitle": "Your new plan will be activated within the next half hour and you will receive a notification by SMS.",
+ "pre2neoSuccessDescription": "",
+ "pre2neoSuccessDisclaimerTitle": "From now on, in the 'Management' section you will find everything you need for COSMOTE Neo:",
+ "pre2neoSuccessLink": "https://www.cosmote.gr/cs/cosmote/gr/cosmote-neo.html/",
+ "post2neoSuccessTitle": "Welcome to the world of the first digital mobile plan, COSMOTE Neo.",
+ "post2neoSuccessSubtitle": "Your new plan will be activated within the next hour and you will receive a notification by SMS.",
+ "post2neoSuccessDescription": "",
+ "post2neoSuccessDisclaimerTitle": "From now on, in the 'Management' section you will find everything you need for COSMOTE Neo:",
+ "post2neoSuccessLink": "https://www.cosmote.gr/cs/cosmote/gr/cosmote-neo.html",
+ "post2neoActivationQuickTipsTitle": "Quick Tips",
+ "post2neoActivationQuickTipsMessage": "To make your connection visible to the app, set it up from the login management section on the home page",
+"portInSuccessTitle": "Your request has been successfully registered!",
+"portInSuccessSubtitle": "We will keep you updated on the progress of your SIM card delivery. Activate it easily and quickly, as soon as you receive it, on the homepage of MyCOSMOTE App. In the section 'Orders' you can be informed about the progress of your order",
+"newNeoSuccessTitle": "Your request has been successfully registered!",
+"newNeoSuccessSubtitle": "We will keep you updated on the progress of your SIM card delivery. Activate it easily and quickly, as soon as you receive it, on the homepage of MyCOSMOTE App. In the section 'Orders' you can be informed about the progress of your order",
+"portInNeoSimActivationFastSuccessTitle": "Congratulations you have successfully completed your request for the activation of your new SIM.",
+"portInNeoSimActivationFastSuccessSubtitle": "Within 1 business day the process will be completed and you will receive a notification for the activation of your plan!",
+ "portInNeoSimActivationFastSuccessDescription": "",
+"portInNeoSimActivationFastSuccessDisclaimerTitle": "From now on, in the Management' section you will find everything you need for COSMOTE Neo:",
+ "portInNeoSimActivationFastSuccessLink":
+"https://www.cosmote.gr/cs/cosmote/gr/cosmote-neo.html",
+"portInNeoSimActivationFastQuickTipsTitle": "Quick Tips",
+"portInNeoSimActivationFastQuickTipsMessage": "To make your connection visible in the app, set it up from the connection management section on the home page",
+"portInNeoSimActivationNonFastSuccessTitle": "We have successfully registered your request!",
+"portInNeoSimActivationNonFastSuccessSubtitle": "You will need to wait for the activation of your new SIM. The portability process is usually completed within in 14 days.",
+ "portInNeoSimActivationNonFastSuccessDescription": "",
+"portInNeoSimActivationNonFastSuccessDisclaimerTitle": "From now on, in the 'Management' section you will find everything you need for COSMOTE Neo:",
+ "portInNeoSimActivationNonFastSuccessLink":
+"https://www.cosmote.gr/cs/cosmote/gr/cosmote-neo.html",
+"portInNeoSimActivationNonFastQuickTipsMessage": "To make your connection visible to the app, set it up from the connection management section on the home page",
+"portInNeoSimActivationNonFastQuickTipsTitle": "Quick Tips",
+"newNeoSimActivationSuccessTitle": "Welcome to the world of the first digital mobile plan, COSMOTE Neo.",
+"newNeoSimActivationSuccessSubtitle": "We have successfully completed your request to activate your new SIM. Within the next hour the process will be finished and we will inform you by SMS about the activation of your plan!",
+ "newNeoSimActivationSuccessDescription": "",
+"newNeoSimActivationSuccessDisclaimerTitle": "From now on, in the 'Management' section you will find everything you need for COSMOTE Neo:",
+ "newNeoSimActivationSuccessLink": "https://www.cosmote.gr/cs/cosmote/gr/cosmoteneo.html",
+"newNeoSimActivationQuickTipsTitle": "Quick Tips",
+"newNeoSimActivationQuickTipsMessage": "To make your login to the app visible, set it up from the login management section on the home page",
+"modifyNeoSuccessTitle": "Your changes were successfully saved.",
+"reActivationSuccessTitle": "We received your request!",
+"manageNeoDiyHeader": "Here you can change your plan according to your needs or change other information, such as your proof of payment and email.",
+"manageNeoPopHeader": "Select the kind of receipt you want to receive after the monthly payment of the NEW.",
+"reActivationDiyHeader": "Design the plan that suits you. It's simple, you choose your data, speech & SMS (if you want) allowances and you can change them every month.",
+"preDefaultManageCardsSuccessTitle": "Your COSMOTE Neo has been reactivated.",
+ "shopImage": "cosmote_neo_november_2022_shop_banner_old",
+ "shopShortDescription": "A whole mobile network exclusively on your mobile!",
+ "faqHowMuchDoesItCostLink": "https://www.cosmote.gr/cs/cosmote/gr/cosmoteneo.html#calculator",
+ "learnMoreSuccessButton": "Learn more about your COSMOTE Neo "
+ },
+ "wordingModel": {
+"renewalsOffersGift": "Renew your contract ONLINE today and get a GIFT!",
+"rateplanOffersGift": "See your unique offers for unlimited communication and more data!",
+ "contractTopUp": "Renew your airtime and win MB gifts, depending on the top-up amount!",
+"thirdPersonTopUp": "Renew the airtime and the prepaid user will receive MB gifts, depending on the top-up amount!",
+ "mbGiftText": "Gift 1 GB for 7 days with every bill payment in the app!",
+ "imageName": null,
+"paymentScreenText": "<b>1GB gift upon payment of your bill! \nFree data will be activated on the connection you choose.</b> \nWithin 1 day, the gift can be activated on the same connection only for one Mobile and one Fixed payment.",
+"paymentGiftText": "<b>1GB gift upon payment of your bill! \nFree data will be activated on the connection you choose.</b>",
+ "paymentGiftDisclaimerText": "Within 1 day, the gift can be activated on the same connection for only one Mobile and one Fixed payment.",
+"selectionBottomSheet": "Choose which connection you want to give the Free GB to",
+ "noSelectionAlertTitle": "1GB",
+ "noSelectionAlertText": "You have not chosen a connection to give the Free GB",
+ "fullPaymentFix": "full_payment_fixed",
+ "fullPaymentMobile": "Full_Inv_Payment_One_App",
+ "billCardImage": "gb1Labelgift",
+ "showTenEuroTopUp": true,
+"topUpTenEuroAlert": "At COSMOKAPTA and What's up, with a top-up from 10€, the balance may not be enough to buy monthly talk time packages that now start from 10€ and offer a lot more. With a renewal amount of 12€ the balance will definitely be enough, and the MB bonus will be much more.",
+"tvSkinnyConfirmationScreenMessage": "Includes 24% VAT and 10% Pay-TV Fee.",
+ "tvSkinnyDiscountText": "You get a discount of 1,82€/month on certain packages if you add more than one.",
+ "tvTermsPrepaid":
+"https://www.cosmote.gr/pdf/fixed/residential/cosmotetv_ott_prepaid_terms.pdf",
+ "tvTermsProduct": "https://www.cosmote.gr/pdf/TermsConditions/oroi-ott-tv-packs.pdf",
+ "billPaymentsGiftImage": "gb_gift_icon",
+ "surveyGiftImage": "survey_gift_image2",
+ "surveyGiftBadge": "survey_badge_empty",
+ "b2bRenewalsBannerImagePath": "b2b_renewals_banner",
+ "b2bRenewalsBannerPosition": 40,
+ "b2bRenewalsComparisonGift": "5GB",
+ "b2bRenewalsGiftTitle": "+ 5GB gift for each connection",
+ "b2bRenewalsGiftDescription": "with online renewal!",
+ "b2bRenewalsManageContractTitle": "You are entitled to renewal in the corporate mobile contract!",
+"b2bRenewalsManageContractDescription": "Renew your company's contracts ONLINE today and get a GIFT of 5GB/month for all connections!"
+ },
+ "b2bRenewalWordings": {
+"dataBoosterLimitText": "data boost activations"
+ },
+ "surveyImages": {
+ "TV": {
+ "imageName": "tileorasi"
+ },
+ "HOME": {
+ "imageName": "spiti"
+ },
+ "FOOD": {
+ "imageName": "fagito"
+ },
+ "MOVEMENTS": {
+ "imageName": "metakiniseis"
+ },
+ "ENTERTAINMENT": {
+ "imageName": "psixagogia"
+ },
+ "For you": {
+ "imageName": "survey_22"
+ },
+ "default": {
+ "imageName": "survey"
+ }
+ },
+ "newBusinessOneModel": {
+ "termsVersion": "v1",
+ "genericBenefits": [
+ {
+ "title": "COSMOTE File Back up 100GB",
+"description": "COSMOTE File Back up 100GB to keep back up files for your business",
+ "image": "file_back_up_image",
+ "subtitle": "Free COSMOTE File Back Up 100GB for your business files"
+ }
+ ],
+ "dataBoostBenefit": {
+ "title": "2x Data boost for all connections",
+ "description": "2x Data boost for all connections",
+ "image": "new_icon_data_boost"
+ },
+ "listOfBenefits": [
+ {
+ "id": "CBV4_DISCOUNT",
+ "title": "",
+ "description": "",
+ "benefits": [
+ {
+ "id": "1902",
+ "title": "10% discount every month on mobile bill",
+ "description": "10% discount on account. mobile (with a limit of 30 euros) every month ",
+ "image": "new_icon_percentage",
+ "type": "discount",
+ "value": 10
+ }
+ ],
+ "mustSelectAssets": false
+ },
+ {
+ "id": "CBV4_BDP_DATA",
+ "description": "",
+ "benefits": [
+ {
+ "id": "1559",
+"title": "2times data boost for all connections",
+ "description": "Extra 2GB on up to 10 connections and double Data Boost every month",
+ "manageDescription": "Extra 2GB every month for up to 10 mobile connections",
+ "extraBenefitDescription": "Extra 2GB on up to 10 connections, double the Data Boost every month and 1 more privilege of your choice!",
+ "summaryDescription": "Extra 2GB every month for links:",
+"summaryDescriptionOnlyOneAsset": "Extra 2GB every month for the connection:",
+ "image": "new_icon_internet",
+ "type": "data",
+ "value": 1
+ }
+ ],
+ "mustSelectAssets": true
+ },
+ {
+ "id": "CBV4_RDP_DATA",
+ "description": "",
+ "benefits": [
+ {
+ "id": "1559",
+"title": "2times data boost for all connections",
+ "description": "Extra 2GB on up to 10 connections and double Data Boost every month",
+ "manageDescription": "Extra 2GB every month for up to 10 mobile connections",
+ "extraBenefitDescription": "Extra 2GB on up to 10 connections, double the Data Boost every month and 1 more privilege of your choice!",
+ "summaryDescription": "Extra 2GB every month for links:",
+"summaryDescriptionOnlyOneAsset": "Extra 2GB every month for the connection:",
+ "image": "new_icon_internet",
+ "type": "data",
+ "value": 1
+ }
+ ],
+ "mustSelectAssets": true
+ },
+ {
+ "id": "CBV4_BDP_BACKUP",
+ "description": "",
+ "benefits": [
+ {
+ "id": "1559",
+"title": "2times data boost for all connections",
+ "description": "Extra 2GB on up to 10 connections and double Data Boost every month",
+ "manageDescription": "Extra 2GB every month for up to 10 mobile connections",
+ "extraBenefitDescription": "Extra 2GB in up to 10 connections, double the Data Boost every month and 1 more privilege of your choice!",
+ "summaryDescription": "Extra 2GB every month for links:",
+"summaryDescriptionOnlyOneAsset": "Extra 2GB every month for the connection:",
+ "image": "new_icon_internet",
+ "type": "data",
+ "value": 1
+ }
+ ],
+ "extraBenefits": [
+ {
+ "id": "1561",
+"title": "5€ discount for up to one COSMOTE Internet Backup",
+"description": "5€ discount for up to one COSMOTE Internet Backup",
+"manageDescription": "Change it, at a 5€ discount for up to a COSMOTE Internet Backup",
+ "tooltipText": "This privilege applies only if there is an active COSMOTE Internet Backup connection.",
+ "image": "new_icon_discount_backup",
+ "value": 1
+ }
+ ],
+"manageExtraBenefitTitle": "Manage the privilege \"5€ discount for up to one COSMOTE Internet Backup\".",
+"changeExtraBenefitTitle": "Change the privilege \"5€ discount for up to one COSMOTE Internet Backup\", to one of the following.",
+ "selectAssetsTitle": "Select the COSMOTE Internet Backup you want to get a 5€ discount.",
+ "mustSelectAssets": true
+ },
+ {
+ "id": "CBV4_BDP_MINUTES",
+ "description": "",
+ "benefits": [
+ {
+ "id": "1559",
+"title": "2times data boost for all connections",
+ "description": "Extra 2GB on up to 10 connections and double Data Boost every month",
+ "manageDescription": "Extra 2GB every month for up to 10 mobile connections",
+ "extraBenefitDescription": "Extra 2GB on up to 10 connections, double the Data Boost every month and 1 more privilege of your choice!",
+ "summaryDescription": "Extra 2GB every month for links:",
+"summaryDescriptionOnlyOneAsset": "Extra 2GB every month for the connection:",
+ "image": "new_icon_internet",
+ "type": "data",
+ "value": 1
+ }
+ ],
+ "extraBenefits": [
+ {
+ "id": "CB1_FIXED_BENEFIT",
+ "title": "Additional 600' of talking for up to a LANDLINE",
+ "description": "Extra 600' of speech for up to a landline",
+ "manageDescription": "Change it to an additional 600' of speech for up to one landline",
+ "tooltipText": "This privilege applies only if there is an active COSMOTE Internet Backup connection.",
+ "image": "new_icon_minutes",
+ "value": 1
+ }
+ ],
+"manageExtraBenefitTitle": "Manage the \"Extra 600' speech privilege for up to one landline\".",
+"changeExtraBenefitTitle": "Changed the privilege \"Extra 600' speech for up to one landline\".",
+ "selectAssetsTitle": "Choose another landline that you will use the 600' of talking to mobile.",
+ "mustSelectAssets": true
+ },
+ {
+ "id": "CBV4_BDP_IOTG",
+ "description": "",
+ "benefits": [
+ {
+ "id": "1559",
+"title": "2times data boost for all connections",
+ "description": "Extra 2GB on up to 10 connections and double Data Boost every month",
+ "manageDescription": "Extra 2GB every month for up to 10 mobile connections",
+ "extraBenefitDescription": "Extra 2GB on up to 10 connections, double the Data Boost every month and 1 more privilege of your choice!",
+ "summaryDescription": "Extra 2GB every month for links:",
+"summaryDescriptionOnlyOneAsset": "Extra 2GB every month for the connection:",
+ "image": "new_icon_internet",
+ "type": "data",
+ "value": 1
+ }
+ ],
+ "extraBenefits": [
+ {
+ "id": "1560",
+ "title": "2x GB for up to one COSMOTE Mobile Internet and",
+ "description": "2x GB for up to one COSMOTE Mobile Internet and",
+"manageDescription": "Change it to 2x GB for up to one COSMOTE Mobile Internet and",
+ "tooltipText": "This privilege applies only if there is an active COSMOTE Mobile Internet connection.",
+ "image": "new_icon_internet",
+ "value": 1
+ },
+ {
+ "id": "GIFTCARD_50",
+ "title": "50€ six-month gift voucher",
+ "description": "50€ six-month gift voucher",
+ "image": "new_icon_giftcard",
+ "value": 1
+ }
+ ],
+ "changeExtraBenefitTitle": "Manage the privilege \"2x GB on COSMOTE Mobile Internet and 50€ six-month gift voucher\".",
+ "manageExtraBenefitTitle": "Manage the privilege \"2x GB on COSMOTE Mobile Internet and 50€ six-month gift voucher\".",
+"selectAssetsTitle": "Choose if you want, another COSMOTE Mobile Internet that we will double its GB. ",
+ "mustSelectAssets": true
+ }
+ ]
+ },
+ "businessOneModel": {
+ "cb1V3Update": "UNAVAILABLE",
+ "genericBenefits": [
+ {
+ "title": "COSMOTE File Back up",
+"description": "COSMOTE File Back up 100GB to keep back up files for your business",
+ "image": "file_back_up_image"
+ },
+ {
+ "title": "Personalized Service",
+ "description": "Personalized service by calling 13818",
+ "image": "personal_help_image"
+ }
+ ],
+ "listOfBenefits": [
+ {
+ "id": "CBV3_A1",
+ "title": "",
+ "description": "",
+ "benefits": [
+ {
+ "title": "10% discount every month (up to 50 euros)",
+ "description": "10% discount every month on the mobile bill",
+ "image": "new_icon_percentage",
+ "type": "discount",
+ "value": 10
+ },
+ {
+ "title": "Extra 1GB each month on up to 10 connections",
+ "description": "Extra 1GB every month on up to 10 mobile phones of your business",
+ "image": "new_icon_internet",
+ "type": "data",
+ "value": 1
+ }
+ ],
+"selectAssetsTitle": "Select up to 10 connections that will enjoy an extra 1GB.",
+ "mustSelectAssets": true
+ },
+ {
+ "id": "CBV3_A2",
+ "title": "",
+ "description": "",
+ "benefits": [
+ {
+ "title": "10% discount every month (up to 30 euros)",
+ "description": "10% discount every month on the mobile bill",
+ "image": "new_icon_percentage",
+ "type": "discount",
+ "value": 10
+ },
+ {
+ "title": "Extra 1GB each month on up to 10 connections",
+ "description": "Extra 1GB every month on up to 10 mobile phones of your business",
+ "image": "new_icon_internet",
+ "type": "data",
+ "value": 1
+ }
+ ],
+"selectAssetsTitle": "Select up to 10 connections that will enjoy an extra 1GB.",
+ "mustSelectAssets": true
+ },
+ {
+ "id": "CBV3_M1",
+ "title": "10% discount every month (up to 30 euros)",
+ "description": "10% discount every month on the mobile bill",
+ "benefits": [
+ {
+ "title": "10% discount every month (up to 30 euros)",
+ "description": "10% discount every month on the mobile bill",
+ "image": "new_icon_percentage",
+ "type": "discount",
+ "value": 10
+ }
+ ],
+ "mustSelectAssets": false
+ },
+ {
+ "id": "CBV3_M2",
+ "title": "Extra 1GB each month on up to 10 connections",
+ "description": "Extra 1GB every month on up to 10 mobile phones of your business",
+ "benefits": [
+ {
+ "title": "Extra 1GB each month on up to 10 connections",
+ "description": "Extra 1GB every month on up to 10 mobile phones of your business",
+ "image": "new_icon_internet",
+ "type": "data",
+ "value": 1
+ }
+ ],
+ "changeBenefitDescription": "If an MB privilege is selected, a future change to a discount privilege is not supported.",
+"selectAssetsTitle": "Select up to 10 connections that will enjoy an extra 1GB.",
+ "mustSelectAssets": true
+ },
+ {
+ "id": "CBV3_L1"
+ }
+ ]
+ },
+ "oneModel": {
+ "disableCosmoteOne": false,
+ "genericBenefit": {
+ "title": "COSMOTE One Privileges for all members!",
+ "description": "COSMOTE One offers you additional GB allowance and at the same time, all members of the scheme communicate FREE of charge with each other!",
+"type": "MINUTES",
+ "subType": "To One",
+ "value": 1000
+ },
+ "listOfBenefits": [
+ {
+ "id": "1012",
+ "position": 20,
+ "title": "COSMOTE One 1,5GB",
+ "description": "1.5GB for surfing the Internet",
+ "type": "MB",
+ "image": "internet_cosmoteone_1500_new",
+ "subType": null,
+ "value": 1536
+ },
+ {
+ "id": "1013",
+ "position": 20,
+ "title": "COSMOTE One 3GB",
+ "description": "3GB for surfing the Internet",
+ "type": "MB",
+ "image": "internet_cosmoteone_3000_new",
+ "subType": null,
+ "value": 3072
+ },
+ {
+ "id": "1014",
+ "position": 20,
+ "title": "COSMOTE One 5GB",
+ "description": "5GB for surfing the Internet",
+ "type": "GB",
+ "image": "internet_cosmoteone_5000_new",
+ "subType": null,
+ "value": 5
+ },
+ {
+ "id": "1015",
+ "position": 20,
+ "title": "COSMOTE One 20GB Family Sharing",
+ "description": "20GB to share with program members",
+ "type": "GB",
+ "image": "internet_cosmoteone_20gb_family",
+ "subType": null,
+ "value": 20
+ },
+ {
+ "id": "985",
+ "position": 1,
+ "title": "COSMOTE One 500MB",
+ "description": "500 MB for surfing the Internet",
+ "type": "MB",
+ "image": "internet_cosmoteone_500",
+ "subType": null,
+ "value": 500
+ },
+ {
+ "id": "986",
+ "position": 2,
+ "title": "COSMOTE One 1GB",
+ "description": "1GB for surfing the Internet",
+ "type": "GB",
+ "image": "internet_cosmoteone_1gb",
+ "subType": null,
+ "value": 1
+ },
+ {
+ "id": "987",
+ "position": 50,
+ "title": "COSMOTE One 100 Minutes",
+ "description": "100' to all networks",
+"type": "MINUTES",
+ "image": "talktime_cosmoteone_100min",
+"subType": "TO ALL",
+ "value": 100
+ },
+ {
+ "id": "988",
+ "position": 60,
+ "title": "COSMOTE One 200 Minutes",
+ "description": "200' to all networks",
+"type": "MINUTES",
+ "image": "talktime_cosmoteone_200min",
+"subType": "TO ALL",
+ "value": 200
+ },
+ {
+ "id": "989",
+ "position": 3,
+ "title": "COSMOTE One 3GB Family Sharing",
+ "description": "3GB to share with the members of the program",
+ "type": "GB",
+ "image": "internet_cosmoteone_3gb_family",
+ "subType": null,
+ "value": 3
+ },
+ {
+ "id": "990",
+ "position": 4,
+ "title": "COSMOTE One 9GB Family Sharing",
+ "description": "9GB to share with the members of the program",
+ "type": "GB",
+ "image": "internet_cosmoteone_9gb_family",
+ "subType": null,
+ "value": 9
+ },
+ {
+ "id": "9028",
+ "position": 5,
+ "title": "COSMOTE One 5GB Family Sharing",
+ "description": "5GB to share with the members of the program",
+ "type": "GB",
+ "image": "",
+ "subType": null,
+ "value": 5
+ },
+ {
+ "id": "9029",
+ "position": 6,
+ "title": "COSMOTE One 10GB Family Sharing",
+ "description": "10GB to share with the members of the program",
+ "type": "GB",
+ "image": "",
+ "subType": null,
+ "value": 10
+ },
+ {
+ "id": "9030",
+ "position": 11,
+ "title": "COSMOTE One Prepaid BENEFIT",
+ "description": "2GB for 7 days, every month",
+ "type": "GB",
+ "image": "",
+ "subType": null,
+ "value": 2
+ },
+ {
+ "id": "9031",
+ "position": 2,
+ "title": "COSMOTE One 2GB",
+ "description": "COSMOTE One 2GB",
+ "type": "GB",
+ "image": "internet_cosmoteone_2gb",
+ "subType": null,
+ "value": 2
+ },
+ {
+ "id": "991",
+ "position": 70,
+ "title": "COSMOTE One 200 minutes family sharing",
+ "description": "200' to everyone to share with the members of the program",
+"type": "MINUTES",
+ "image": "talktime_cosmoteone_200min_family",
+"subType": "TO ALL",
+ "value": 200
+ },
+ {
+ "id": "992",
+ "position": 8,
+ "title": "COSMOTE One 400 Minutes Family Sharing",
+ "description": "400' to everyone to share with the members of the program",
+"type": "MINUTES",
+ "image": "talktime_cosmoteone_400min_family",
+"subType": "TO ALL",
+ "value": 400
+ },
+ {
+ "id": "9026",
+ "position": 3,
+ "title": "C1_Value_Benefit 10GB",
+ "description": "10GB for surfing the internet",
+ "type": "GB",
+ "image": "internet_cosmoteone_10gb",
+ "subType": null,
+ "value": 10
+ },
+ {
+ "id": "9027",
+ "position": 3,
+ "title": "C1_Value_Benefit 20GB",
+ "description": "20GB for surfing the internet",
+ "type": "GB",
+ "image": "internet_cosmoteone_20gb",
+ "subType": null,
+ "value": 20
+ },
+ {
+ "id": "993",
+ "position": 9,
+ "isDiscount": true,
+ "title": "Discount on the monthly fee of the bill",
+ "description": "Discount on the monthly fee of the bill",
+ "image": "",
+ "value": 10
+ },
+ {
+ "id": "994",
+ "position": 9,
+ "isDiscount": true,
+ "title": "Discount on the monthly fee of the bill",
+ "description": "Discount on the monthly fee of the bill",
+ "image": "",
+ "value": 15
+ },
+ {
+ "id": "995",
+ "position": 9,
+ "isDiscount": true,
+ "title": "Discount on the monthly fee of the bill",
+ "description": "Discount on the monthly fee of the bill",
+ "image": "",
+ "value": 15
+ },
+ {
+ "id": "996",
+ "position": 9,
+ "isDiscount": true,
+ "title": "Discount on the monthly fee of the bill",
+ "description": "Discount on the monthly fee of the bill",
+ "image": "",
+ "value": 20
+ },
+ {
+ "id": "997",
+ "position": 10,
+ "isDiscount": true,
+ "title": "Discount on the monthly fee of the bill",
+ "description": "Discount on the monthly fee of the bill",
+ "image": "",
+ "value": 0
+ },
+ {
+ "id": "9994",
+ "position": 11,
+ "title": "COSMOTE One 2.5GB",
+ "description": "2.5GB for surfing the Internet",
+ "type": "MB",
+ "image": "",
+ "value": 2560
+ },
+ {
+ "id": "9995",
+ "position": 12,
+ "title": "COSMOTE One 40GB Family Sharing",
+ "description": "40GB to share with the members of the program",
+ "type": "GB",
+ "image": "",
+ "value": 40
+ }
+ ]
+ },
+ "homePageBanners": {
+ "renewalsImage": "renewals_green_banner_feb",
+ "renewalsImageWithoutTimer": "renewals_green_banner_feb",
+ "renewalExpirationDate": 1611618251,
+ "renewalsSubtitle": "",
+ "rateplanImage": "rateplan_change_banner_febrouary21",
+ "rateplanImageWithoutTimer": "rateplan_change_banner_febrouary21",
+ "rateplanExpirationDate": 1611688251,
+ "pre2postImage": "p2p_home_banner"
+ },
+ "rateplanFlavors": [
+ {
+ "id": "1010",
+ "position": 9,
+ "isDiscount": false,
+ "title": "BONUS 1GB",
+ "description": "FREE 1GB for surfing the internet",
+ "image": "internet_1gb_int_vid_mus",
+ "value": 1024,
+ "type": "MB",
+ "segment": "DATA",
+ "subType": null
+ },
+ {
+ "id": "1011",
+ "position": 9,
+ "isDiscount": false,
+ "title": "BONUS 200’",
+ "description": "Free 200' minutes to all national networks",
+ "image": "talktime_200min",
+ "value": 200,
+"type": "MINUTES",
+ "segment": "VOICE",
+ "subType": null
+ },
+ {
+ "id": "1018",
+ "position": 9,
+ "isDiscount": false,
+ "title": "BONUS 2GB",
+ "description": "FREE 2GB for surfing the internet",
+ "image": "p2p_internet_2gb",
+ "value": 2048,
+ "type": "MB",
+ "segment": "DATA",
+ "subType": null
+ },
+ {
+ "id": "1019",
+ "position": 9,
+ "isDiscount": false,
+ "title": "BONUS 300’",
+ "description": "Free 300' minutes to all national networks",
+ "image": "talktime_300min",
+ "value": 300,
+"type": "MINUTES",
+ "segment": "VOICE",
+ "subType": null
+ },
+ {
+ "id": "1090",
+ "position": 10,
+ "isDiscount": false,
+ "title": "BONUS 400’",
+ "description": "Free 400' minutes to all national networks",
+ "image": "talktime_400min",
+ "value": 400,
+"type": "MINUTES",
+ "segment": "VOICE",
+ "subType": null
+ },
+ {
+ "id": "1091",
+ "position": 11,
+ "isDiscount": false,
+ "title": "BONUS 3GB",
+ "description": "FREE 3GB for surfing the internet",
+ "image": "p2p_internet_3gb",
+ "value": 3072,
+ "type": "MB",
+ "segment": "DATA",
+ "subType": null
+ }
+ ],
+ "prepaid2PostpaidGifts": [
+ {
+ "id": "1010",
+ "description": "Free GB for surfing the internet",
+ "title": "Free to surf the Internet",
+ "value": 1,
+ "type": "GB"
+ },
+ {
+ "id": "1011",
+ "description": "Free 200' minutes to all national networks",
+ "title": "Free to all",
+ "value": 200,
+ "type": "minutes"
+ },
+ {
+ "id": "1018",
+ "description": "Free GB for surfing the internet",
+ "title": "Free to surf the Internet",
+ "value": 2,
+ "type": "GB"
+ },
+ {
+ "id": "1019",
+ "description": "Free 300' minutes to all national networks",
+ "title": "Free to all",
+ "value": 300,
+ "type": "minutes"
+ },
+ {
+ "id": "1090",
+"description": "BONUS 400 MINUTES",
+ "title": "Free to all",
+ "value": 400,
+ "type": "minutes"
+ },
+ {
+ "id": "1091",
+ "description": "BONUS 3 GB",
+ "title": "Free to all",
+ "value": 3,
+ "type": "GB"
+ }
+ ],
+ "callingTunesWording": {
+ "ctBuyTrackHeaderTitle": "Buy Tune for €3.99",
+ "ctBuyTrackButtonTitle": "Buy it",
+ "ctBuyUnlimitedHeaderTitle": "Unlimited Tunes for 0,69€/week",
+ "ctBuyUnlimitedDisclaimer": "Free for one week \n0,69€/week after",
+ "ctBuyUnlimitedBullet1Title": "You have unlimited songs ",
+ "ctBuyUnlimitedBullet2Title": "Select a different one, for each friend",
+ "ctBuyUnlimitedBullet3Title": "Music plays on the days & hours you want",
+"ctSeeMoreText": "Purchase Calling Tune for 3,99€:\n\n- Duration for 12 months with automatic renewal and deletion option before the expiration of the 12-month period.\n\nFor the subscription, for 0,69€/week:\n\n- The first week Free\n\n- Up to 200 Calling Tunes",
+"ctWhatsNewText": "Now you can set a different sound for each caller! Activate COSMOTE Calling Tunes Unlimited and try the new service for free, for one week!",
+"ctFreeTrackTitle": "Exclusive offer until 28/02",
+ "ctFreeTrackInfo": "COSMOTE, investing in a better world, starting with the children, supports for the 6th year, educational robotics & the development of their digital skills.",
+"ctFreeTrackDetails": "Calling Tunes available for free are valid for use for 12 months from the date they were added to the subscriber's collection. For subscribers of the COSMOTE Calling Tunes Unlimited package, Calling Tunes will be active for as long as they are active in the service."
+ },
+ "bundleInfo": {
+ "Contexual2": {
+"bundleTitle": "Available Data"
+ },
+ "EPAYMENT_1GB_7D": {
+"bundleTitle": "Free 1GB for 7 days"
+ },
+ "UnlimWeekDay": {
+ "bundleTitle": "UNLIMITED GIGA"
+ },
+ "UnlimWeekends": {
+ "bundleTitle": "UNLIMITED GIGA 4SK"
+ },
+ "UnlimGigaPSK1": {
+ "bundleTitle": "UNLIMITED GIGA SK"
+ },
+ "UnlimAfterDark": {
+"bundleTitle": "Unlimited After Dark 10 pm-8am"
+ },
+ "NeoUnlOffer2": {
+"bundleTitle": "COSMOTE Neo Birthday Gift"
+ },
+ "RoamZone2_Pack1": {
+ "bundleTitle": "Day 250MB Roaming"
+ },
+ "RoamZone2_Pack2": {
+ "bundleTitle": "3 Days 500MB Roaming"
+ },
+ "RoamZone2_Pack3": {
+ "bundleTitle": "Week 1GB Roaming"
+ },
+ "RoamZone4_Pack1": {
+ "bundleTitle": "Day 250MB Roaming"
+ },
+ "RoamZone4_Pack2": {
+ "bundleTitle": "3 Days 500MB Roaming"
+ },
+ "RoamZone4_Pack3": {
+ "bundleTitle": "Week 1GB Roaming"
+ },
+ "RoamZone5_Pack1": {
+ "bundleTitle": "Week 300MB Roaming"
+ },
+ "SpecificOffers2": {
+"bundleTitle": "15GB gift"
+ },
+ "XMAS_10GB_7DAYS": {
+"bundleTitle": "15GB gift"
+ },
+ "SpecificOffers6": {
+"bundleTitle": "30GB gift"
+ },
+ "XMAS_30GB_7DAYS": {
+"bundleTitle": "30GB gift"
+ },
+ "ChristmasOffer": {
+ "bundleTitle": "Gift Unlimited Data"
+ },
+ "XMAS_UNL_10DAYS": {
+ "bundleTitle": "Gift Unlimited Data"
+ },
+ "XMAS2021_NTL4ALL": {
+"bundleTitle": "Gift Unlimited Minutes to All"
+ },
+ "XMAS_1500MIN_7DAYS": {
+"bundleTitle": "Gift Unlimited Minutes to All"
+ },
+ "M4MUnl": {
+"bundleTitle": "Free Unlimited Data for 30 days"
+ },
+ "CRM_10GB_24M": {
+"bundleTitle": "Free 10GB every month for 24 months"
+ },
+ "CRM_1500MIN_COS_24M": {
+ "bundleTitle": "Free 1500' to COSMOTE for 24 months"
+ },
+ "CRM_UNL_30DAYS": {
+"bundleTitle": "Free Unlimited Data for 30 days"
+ },
+ "BUS_PLUS_2000S_UNLVOC": {
+"bundleTitle": "Unlimited minutes to all national networks"
+ },
+ "PARLIAMENT_IMPL_DATA": {
+"bundleTitle": "You have unlimited MB in your plan"
+ },
+ "PARLIAMENT_POFU_DATA": {
+"bundleTitle": "You have unlimited MB in your plan"
+ },
+ "NATEUSMS": {
+"bundleTitle": "National and international networks within the EU"
+ },
+ "INTERNOEUSMS": {
+"bundleTitle": "International networks outside the EU"
+ },
+ "CSAWP_EXTRA_30_SMS": {
+ "bundleTitle": "Cosmote Swipe & Win"
+ },
+ "FREEDOM_PASS_2021": {
+ "bundleTitle": "Freedom Pass-Data"
+ },
+ "FreedomPass": {
+ "bundleTitle": "Freedom Pass-Data"
+ },
+ "IOTGBonus": {
+"bundleTitle": "GB gift from top-up"
+ },
+ "IOTGSpecOffer": {
+ "bundleTitle": "Unlimited Data for 3 months"
+ },
+ "CRMGifts3": {
+ "bundleTitle": "Free 1500+ Unlimited Data"
+ },
+ "NTL4all7d": {
+ "bundleTitle": "Free 1500+ Unlimited Data"
+ },
+ "CRMGIFT_UNLGB_3DAYS": {
+ "bundleTitle": "Free 1500+ Unlimited Data"
+ },
+ "CRMGIFT_1500MIN_3DAYS": {
+ "bundleTitle": "Free 1500+ Unlimited Data"
+ },
+ "CRMGIFT_UNLGB_7DAYS": {
+ "bundleTitle": "Free 1500+ Unlimited Data"
+ },
+ "CRMGIFT_1500MIN_7DAYS": {
+ "bundleTitle": "Free 1500+ Unlimited Data"
+ },
+ "CRMGIFT_UNLIMITED_3DAYS": {
+ "bundleTitle": "Free Unlimited Data"
+ },
+ "CRMGIFT_UNLIMITED_7DAYS": {
+ "bundleTitle": "Free Unlimited Data"
+ },
+ "NeoGift1": {
+"bundleTitle": "100GB ACTIVATION GIFT"
+ },
+ "NeoGift2": {
+"bundleTitle": "50GB ACTIVATION GIFT"
+ },
+ "NEONtl": {
+ "bundleTitle": "COSMOTE Neo"
+ },
+ "NEOSMS": {
+ "bundleTitle": "COSMOTE Neo"
+ },
+ "NEO_Recurring": {
+ "bundleTitle": "COSMOTE Neo"
+ },
+ "NEONtA": {
+ "bundleTitle": "COSMOTE Neo Extra 200’"
+ },
+ "NEOSMA": {
+ "bundleTitle": "COSMOTE Neo Extra 300 sms"
+ },
+ "NeoCAT1": {
+ "bundleTitle": "Video & Music Streaming 5GB"
+ },
+ "NeoAddon1": {
+ "bundleTitle": "COSMOTE Neo Extra GB"
+ },
+ "NeoSocial_Chat1": {
+ "bundleTitle": "Social & Chat 5GB"
+ },
+ "NeoUnlOffer1": {
+ "bundleTitle": "Unlimited Data"
+ },
+ "TIMER_OFFER_2021_WK": {
+ "bundleTitle": "Free Unlimited Data"
+ },
+ "TIMER_OFFER_2019_WK": {
+"bundleTitle": "Free Unlimited Data for CRS"
+ },
+ "UnlimitedWeekend": {
+ "bundleTitle": "Free Unlimited Data"
+ },
+ "RamadanOffer": {
+ "bundleTitle": "8GB & 200'"
+ },
+ "SUMMER_2020_UNL": {
+ "bundleTitle": "Unlimited Data"
+ },
+ "SUMMER_2020_MI_UNL": {
+ "bundleTitle": "Unlimited Data"
+ },
+ "SUMMER_2020_VISA_UNL": {
+ "bundleTitle": "Unlimited Data"
+ },
+ "Unlimited1": {
+ "bundleTitle": "Unlimited Data"
+ },
+ "Unlimited2": {
+ "bundleTitle": "Unlimited Data"
+ },
+ "Permanent32": {
+ "bundleTitle": "15GB for 15 days"
+ },
+ "GESTURE_2020_15GB": {
+ "bundleTitle": "Gift 1500' & 15 GB"
+ },
+ "GESTURE_2020_1500MIN": {
+ "bundleTitle": "Gift 1500' & 15 GB"
+ },
+ "XMAS_2020_UNL_OFFER": {
+"bundleTitle": "Unlimited Data for 7 days"
+ },
+ "XMASS_2019_UNL_OFFER": {
+ "bundleTitle": "GIFT 10GB"
+ },
+ "SpecificOffers1": {
+ "bundleTitle": "5 GB OFFER"
+ },
+ "SpecificOffers3": {
+ "bundleTitle": "UNLIMITED DATA"
+ },
+ "NovemberOffer": {
+"bundleTitle": "10GB FREE FOR 7 DAYS"
+ },
+ "CTAxchng": {
+ "bundleTitle": "#pare_dwse"
+ },
+ "WhatNTLxchng": {
+ "bundleTitle": "#pare_dwse"
+ },
+ "XChange": {
+ "bundleTitle": "#pare_dwse"
+ },
+ "PareMoiraseSoChat": {
+ "bundleTitle": "#pare_moirase SOCIAL & CHAT"
+ },
+ "DataAmbassador": {
+ "bundleTitle": "Student Offer"
+ },
+ "DataFriend": {
+ "bundleTitle": "Student Offer"
+ },
+ "HourlyBundle": {
+ "bundleTitle": "#pare_kavatza"
+ },
+ "NTLKavatza": {
+ "bundleTitle": "#pare_kavatza"
+ },
+ "KartoStudent": {
+ "bundleTitle": "GIGA MONTH STUDENT 5GB"
+ },
+ "Generic2": {
+ "bundleTitle": "GIGA NOW DAY"
+ },
+ "PSK": {
+ "bundleTitle": "GIGA NOW WEEKEND"
+ },
+ "CAT4": {
+ "bundleTitle": "PLAY NOW 5GB"
+ },
+ "CAT": {
+ "bundleTitle": "PLAY NOW UNLIMITED"
+ },
+ "Chat": {
+ "bundleTitle": "CHAT NOW"
+ },
+ "Social": {
+ "bundleTitle": "SOCIAL NOW"
+ },
+ "Summer": {
+ "bundleTitle": "GIGA NOW WEEK"
+ },
+ "CKNTLminicmbR": {
+ "bundleTitle": "EXTRA WEEK"
+ },
+ "WhNTLR": {
+ "bundleTitle": "Mini combo"
+ },
+ "W2WR": {
+ "bundleTitle": "Mini combo"
+ },
+ "MiniComboNew": {
+ "bundleTitle": "Mini combo"
+ },
+ "SUMMER_2020_LEGO_UNL": {
+ "bundleTitle": "Unlimited Data"
+ },
+ "SummerOffer_PwCUnlimitedData": {
+ "bundleTitle": "Unlimited Data"
+ },
+ "SummerOffer": {
+ "bundleTitle": "Unlimited Data"
+ },
+ "UnlimitedSummerOffer": {
+ "bundleTitle": "Unlimited Data"
+ },
+ "PWC_GIGA_SUMMER_2020_BILL_CAPP": {
+ "bundleTitle": "Unlimited Data"
+ },
+ "PWC_GIGA_SUMMER_2020_BLNC_CAPP": {
+ "bundleTitle": "Unlimited Data"
+ },
+ "PWC_B_GIGA_SUMMER_2020_BLNC_CAPP": {
+ "bundleTitle": "Unlimited Data"
+ },
+ "PWC_B_GIGA_SUMMER_2020_CARD_CAPP": {
+ "bundleTitle": "Unlimited Data"
+ },
+ "GIGA_MAX_5GB_CC": {
+"bundleTitle": "GIGA Month Auto 5GB WITH CARD"
+ },
+ "GIGA_MAX_5GB_CC_DO": {
+"bundleTitle ": "GIGA Month Auto 5GB CARD OFFER"
+ },
+ "GIGA_MAX_10GB_CC": {
+"bundleTitle": "GIGA Month Auto 10GB WITH CARD"
+ },
+ "GIGA_MAX_10GB_CC_DO": {
+"bundleTitle": "GIGA Month Auto 10GB OFFER WITH CARD"
+ },
+ "GIGA_MAX_20GB_CC": {
+ "bundleTitle": "GIGA Month Auto 20GB WITH CARD"
+ },
+ "GIGA_MAX_20GB_CC_DO": {
+"bundleTitle": "GIGA Month Auto 20GB OFFER WITH CARD"
+ },
+ "GIGA_MAX_40GB_CC": {
+"bundleTitle": "GIGA Month Auto 40GB WITH CARD"
+ },
+ "GIGA_MAX_40GB_CC_DO": {
+ "bundleTitle": "OFFER GIGA Month Auto 40GB WITH CARD"
+ },
+ "BSNS_BP01_VOICE_ALL": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP01_DATA": {
+ "bundleTitle": "MB Program"
+ },
+ "BSNS_BP02_VOICE_ALL": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP02_DATA": {
+ "bundleTitle": "MB Program"
+ },
+ "BSNS_BP03_VOICE_ALL": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP03_DATA": {
+ "bundleTitle": "MB Program"
+ },
+ "BSNS_BP04_VOICE_MOBILE": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP04_VOICE_FIXED": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP04_DATA": {
+ "bundleTitle": "MB Program"
+ },
+ "BSNS_BP05_VOICE_MOBILE": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP05_VOICE_FIXED": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP05_DATA": {
+ "bundleTitle": "MB Program"
+ },
+ "BSNS_BP06_VOICE_MOBILE": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP06_VOICE_FIXED": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP06_SMS": {
+ "bundleTitle": " Program SMS"
+ },
+ "BSNS_BP06_DATA": {
+ "bundleTitle": "MB Program"
+ },
+ "BSNS_BP07_VOICE_ALL_UNL": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP07_VOICE_INTERNTNL": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP07_SMS": {
+ "bundleTitle": " Program SMS"
+ },
+ "BSNS_BP07_DATA": {
+ "bundleTitle": "MB Program"
+ },
+ "BSNS_BP09_VOICE_ALL_UNL": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP09_VOICE_INTERNTNL": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP09_SMS": {
+ "bundleTitle": " Program SMS"
+ },
+ "BSNS_BP09_DATA": {
+ "bundleTitle": "MB Program"
+ },
+ "BSNS_BP10_VOICE_ALL_UNL": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP10_VOICE_INTERNTNL": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP10_SMS": {
+ "bundleTitle": " Program SMS"
+ },
+ "BSNS_BP10_DATA_UNL": {
+ "bundleTitle": "MB Program"
+ },
+ "BSNS_BP11_VOICE_ALL_UNL": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP11_VOICE_INTERNTNL": {
+"bundleTitle": "Program Minutes"
+ },
+ "BSNS_BP11_SMS": {
+ "bundleTitle": " Program SMS"
+ },
+ "BSNS_BP11_DATA_UNL": {
+ "bundleTitle": "MB Program"
+ },
+ "BSNS_BPDB_DATA_UNL": {
+ "bundleTitle": "Data Boost"
+ },
+ "GIGA_WEEK_VOICE": {
+ "bundleTitle": "Free Unlimited Data"
+ },
+ "GIGA_WEEK_ANYWAY": {
+ "bundleTitle": "Free Unlimited Data"
+ },
+ "GIGA_WEEK_MI": {
+ "bundleTitle": "Free Unlimited Data"
+ },
+ "Permanent32_FROG": {
+ "bundleTitle": "20GB for 30 days"
+ },
+ "Permanent33": {
+ "bundleTitle": "20GB for 14 days"
+ },
+ "FrogNTL180": {
+"bundleTitle": "1000' to everyone for 30 days"
+ },
+ "Permanent30": {
+ "bundleTitle": "DATA ME NOW"
+ },
+ "DATAMENOW": {
+ "bundleTitle": "DATA ME NOW"
+ },
+ "BOX": {
+ "bundleTitle": "BOX OFFER"
+ },
+ "BOX_2GB_2D": {
+ "bundleTitle": "BOX Offer 2GB"
+ },
+ "BOX_1GB_2D": {
+ "bundleTitle": "BOX Offer 1GB"
+ },
+ "BOX_2GB_7D": {
+ "bundleTitle": "BOX Offer 2GB"
+ },
+ "BOX_6GB_7D": {
+ "bundleTitle": "BOX Offer 6GB"
+ },
+ "BOX_3GB_7D": {
+ "bundleTitle": "BOX Offer 3GB"
+ },
+ "BOX_1GB_7D": {
+ "bundleTitle": "BOX Offer 1GB"
+ },
+ "BOX_4GB_7D": {
+ "bundleTitle": "BOX Offer 4GB"
+ },
+ "MI_GIGA_NOW_WEEK_Visa": {
+ "bundleTitle": "GIGA NOW WEEK UNLIMITED"
+ },
+ "MI_GIGA_NOW_Month_3GB_visa": {
+ "bundleTitle": "GIGA NOW MONTH 6GB"
+ },
+ "MI_GIGA_NOW_Month_2GB_visa": {
+ "bundleTitle": "GIGA NOW MONTH 4GB"
+ },
+ "GIGA_NOW_WEEK_Visa": {
+ "bundleTitle": "GIGA NOW WEEK UNLIMITED"
+ },
+ "GIGA_WEEK_MI_2GB": {
+ "bundleTitle": "GIGA NOW WEEK UNLIMITED"
+ },
+ "GIGA_NOW_DAY_Visa": {
+ "bundleTitle": "GIGA NOW DAY UNLIMITED"
+ },
+ "BS_NS_GIGA_NOW_Month_6GB_visa": {
+ "bundleTitle": "GIGA NOW MONTH 6GB"
+ },
+ "BS_NS_GIGA_NOW_Month_3GB_visa": {
+ "bundleTitle": "GIGA NOW MONTH 6GB"
+ },
+ "BS_NS_GIGA_NOW_Month_2GB_visa": {
+ "bundleTitle": "GIGA NOW MONTH 4GB"
+ },
+ "GIGA_WEEK_AW_2GB": {
+ "bundleTitle": "GIGA WEEK UNLIMITED"
+ },
+ "DOUBLE_MBB_40_GB": {
+"bundleTitle": "GIGA Month Auto 40GB OFFER"
+ },
+ "DOUBLE_MBB_20_GB": {
+"bundleTitle": "GIGA Month Auto 20GB OFFER"
+ },
+ "DOUBLE_MBB_10_GB": {
+"bundleTitle": "GIGA Month Auto 10GB OFFER"
+ },
+ "GIGA_MAX_1_5_GB": {
+ "bundleTitle": "GIGA Month Auto 2,5GB"
+ },
+ "DOUBLE_MBB_5_GB": {
+"bundleTitle": "GIGA Month Auto 5GB OFFER"
+ },
+ "GIGA_NOW_XTRASIM_6GB": {
+ "bundleTitle": "GIGA NOW 6GB"
+ },
+ "GIGA_WEEK_2GB": {
+ "bundleTitle": "GIGA NOW WEEK UNLIMITED"
+ },
+ "GIGA_WEEK_XS_2GB": {
+ "bundleTitle": "GIGA NOW WEEK UNLIMITED"
+ },
+ "GIGA_NOW_6GB": {
+ "bundleTitle": "GIGA NOW MONTH 6GB"
+ },
+ "GIGA_NOW_BUS_6GB": {
+ "bundleTitle": "GIGA NOW MONTH 6GB"
+ },
+ "GIGA_NOW_FAM_6GB": {
+ "bundleTitle": "GIGA NOW FAMILY 6GB"
+ },
+ "GIGA_NOW_MI_6GB": {
+ "bundleTitle": "GIGA NOW MONTH 6GB"
+ },
+ "GIGA_NOW_ANYWAY_6GB": {
+ "bundleTitle": "GIGA NOW ANYWAY 6GB"
+ },
+ "GIGA_NOW_XTRASIM_1GB": {
+ "bundleTitle": "GIGA NOW Month"
+ },
+ "GIGA_NOW_ANYWAY_1GB": {
+ "bundleTitle": "GIGA NOW Month"
+ },
+ "GIGA_NOW_MI_1GB": {
+ "bundleTitle": "GIGA NOW Month"
+ },
+ "GIGA_NOW_1GB": {
+ "bundleTitle": "GIGA NOW Month"
+ },
+ "GIGA_NOW_BUS_1GB": {
+ "bundleTitle": "GIGA NOW Month"
+ },
+ "GIGA_NOW_FAM_1GB": {
+ "bundleTitle": "GIGA NOW FAMILY 1GB"
+ },
+ "VOICE_SMS_500_ADDON": {
+ "bundleTitle": "500 minutes and 500 SMS"
+ },
+ "VOICE_SMS_400_EXTRA": {
+ "bundleTitle": "400 minutes and 400 SMS"
+ },
+ "VOICE_SMS_200_ADDON": {
+ "bundleTitle": "200 minutes and 200 SMS"
+ },
+ "VOICE_SMS_150_EXTRA": {
+ "bundleTitle": "150 minutes and 150 SMS"
+ },
+ "DOUBLE_GIGA_MAX_5_GB": {
+"bundleTitle": "GIGA Month Auto 5GB OFFER"
+ },
+ "GIGA_MAX_5_GB": {
+ "bundleTitle": "GIGA Month Auto 5GB"
+ },
+ "DOUBLE_GIGA_MAX_10_GB": {
+"bundleTitle": "GIGA Month Auto 10GB OFFER"
+ },
+ "GIGA_MAX_10_GB": {
+ "bundleTitle": "GIGA Month Auto 10GB"
+ },
+ "DOUBLE_GIGA_MAX_20_GB": {
+"bundleTitle": "GIGA Month Auto 20GB OFFER"
+ },
+ "GIGA_MAX_20_GB": {
+ "bundleTitle": "GIGA Month Auto 20GB"
+ },
+ "DOUBLE_GIGA_MAX_40_GB": {
+"bundleTitle": "GIGA Month Auto 40GB OFFER"
+ },
+ "GIGA_MAX_40_GB": {
+ "bundleTitle": "GIGA Month Auto 40GB"
+ },
+ "WKND_OFR_1500_NAT_1": {
+"bundleTitle": "1500 minutes airtime offer for a weekend"
+ },
+ "DAY_OFR_1500_NAT_1": {
+ "bundleTitle": "Offer 1500"
+ },
+ "RETAIL_VOICE_ADHOC_120MIN": {
+ "bundleTitle": "Extra 120"
+ },
+ "BUS_INTERNAT_300_1": {
+ "bundleTitle": "International 300'"
+ },
+ "BUS_INTERNAT_150_1": {
+ "bundleTitle": "International 150'"
+ },
+ "SHAREABLE_ANYWAY_EXTRA300MB": {
+ "bundleTitle": "Extra 500MB from Mobile Internet"
+ },
+ "SHAREABLE_ANYWAY_EXTRA1GB": {
+ "bundleTitle": "Giga Now Month 2GB from Mobile Internet"
+ },
+ "SHAREABLE_EXTRASIM_EXTRA300MB": {
+ "bundleTitle": "Extra 500MB from Extra SIM"
+ },
+ "SHAREABLE_EXTRASIM_EXTRA1GB": {
+ "bundleTitle": "Giga Now Month 2GB from Extra SIM"
+ },
+ "SHAREABLE_BUSINESS_EXTRA150MB": {
+ "bundleTitle": "Extra 150MB"
+ },
+ "SHAREABLE_BUSINESS_EXTRA300MB": {
+ "bundleTitle": "Extra 500MB"
+ },
+ "SHAREABLE_BUSINESS_EXTRA1GB": {
+ "bundleTitle": "Giga Now Month 4GB"
+ },
+ "SHAREABLE_MOBINT_EXTRA300MB": {
+ "bundleTitle": "Extra 500MB from Mobile Internet"
+ },
+ "SHAREABLE_MOBINT_EXTRA1GB": {
+ "bundleTitle": "GIGA NOW month 4GB"
+ },
+ "SHAREABLE_RETAIL_EXTRA150MB": {
+ "bundleTitle": "Extra 150MB"
+ },
+ "SHAREABLE_RETAIL_EXTRA300MB": {
+ "bundleTitle": "Extra 500MB"
+ },
+ "SHAREABLE_RETAIL_EXTRA1GB": {
+ "bundleTitle": "Giga Now Month 4GB"
+ },
+ "SHARABLE_GIGA_NOW_DAY_UNL": {
+ "bundleTitle": "GIGA NOW DAY FAMILY UNLIMITED"
+ },
+ "SHARABLE_GIGA_NOW_WEEK_UNL": {
+ "bundleTitle": "GIGA NOW WEEK FAMILY UNLIMITED"
+ },
+ "SHRBL_IMP_INTERNET_500": {
+ "bundleTitle": "Mobile Internet"
+ },
+ "DIGITAL_OFFER_500MB": {
+ "bundleTitle": "Free 500MB for 5 days"
+ },
+ "SHRBL_IMP_INTERNET_1P2GB": {
+ "bundleTitle": "Mobile Internet"
+ },
+ "SHRBL_IMP_INTERNETPLUS_500MB": {
+ "bundleTitle": "Mobile Internet"
+ },
+ "SPOTIFY_FU_SP80_MSG_1": {
+ "bundleTitle": "SPOTIFY"
+ },
+ "NEW_EXTRA_BUS_150MB": {
+ "bundleTitle": "Extra 150MB Package"
+ },
+ "NEW_EXTRA_BUS_300MB": {
+ "bundleTitle": "Extra 300MB Package"
+ },
+ "NEW_EXTRA_BUS_1GB": {
+ "bundleTitle": "Extra 1GB Package"
+ },
+ "NEW_EXTRA_IOTG_300MB": {
+ "bundleTitle": "Extra 300MB Package"
+ },
+ "NEW_EXTRA_IOTG_1GB": {
+ "bundleTitle": "Extra 1GB Package"
+ },
+ "NEW_EXTRA_DSBI_300MB": {
+ "bundleTitle": "Extra 300MB Package"
+ },
+ "NEW_EXTRA_DSBI_1GB": {
+ "bundleTitle": "Extra 1GB Package"
+ },
+ "CRM_OFFER_2015_01": {
+"bundleTitle": "10GB gift"
+ },
+ "OTETV_GO_2GB_01": {
+ "bundleTitle": "COSMOTE TV GO"
+ },
+ "CRM_GIFT_500_MINS": {
+ "bundleTitle": "Gift 500'"
+ },
+ "SHRBL_IMP_INTERNETPLUS_1P2GB": {
+ "bundleTitle": "Mobile Internet Plus"
+ },
+ "SHRBL_IMP_INTRANET_500MB": {
+ "bundleTitle": "Mobile Intranet"
+ },
+ "SHRBL_IMP_INTRANET_1P2GB": {
+ "bundleTitle": "Mobile Intranet"
+ },
+ "SHAREABLE_SUBSIDY_500MB": {
+"bundleTitle": "Gift for purchasing a new device 500 MB"
+ },
+ "IOTG_POFU_MOBINT_MSG_1": {
+ "bundleTitle": "Additional Mobile Internet option"
+ },
+ "SHARE_IOTG_POFU_MOBINT_MSG_1": {
+"bundleTitle": "Additional IOTG option"
+ },
+ "GROUPRPS_45_DATA": {
+ "bundleTitle": "Extra SIM"
+ },
+ "MY_COUNTRY_4": {
+"bundleTitle": "COSMOTE International 300 & 45 package"
+ },
+ "MY_COUNTRY_3": {
+"bundleTitle": "COSMOTE International 30 Package"
+ },
+ "FU_TEXT4": {
+"bundleTitle": "MESSAGE BOOSTER Package"
+ },
+ "FU_TEXT7": {
+"bundleTitle": "ONEphone Service"
+ },
+ "FU_TEXT8": {
+ "bundleTitle": "COSMOTE to Landlines"
+ },
+ "FU_TEXT12": {
+ "bundleTitle": "SMS Package 30"
+ },
+ "FU_TEXT14": {
+ "bundleTitle": "The COSMOTE family package "
+ },
+ "FU_TEXT21": {
+"bundleTitle": "COSMOTE SMS 500 package"
+ },
+ "FU_TEXT22": {
+ "bundleTitle": "SMS Package 60"
+ },
+ "FU_TEXT23": {
+ "bundleTitle": "SMS 120 package"
+ },
+ "FU_TEXT29": {
+"bundleTitle": "200 Minutes to Steady Package"
+ },
+ "FU_SMS_BNDL70": {
+ "bundleTitle": "SMS Package 70"
+ },
+ "FU_SMS_BNDL150": {
+ "bundleTitle": "SMS Package 150"
+ },
+ "FU_SMS_BNDL250": {
+ "bundleTitle": "SMS 250 package"
+ },
+ "FU_SMS_BNDL450": {
+ "bundleTitle": "SMS 450 package"
+ },
+ "CABROAD_ADDON_01": {
+ "bundleTitle": "COSMOTE Europe Pack"
+ },
+ "NOV_WKND_OFR_MBYTE_01": {
+ "bundleTitle": "Offer"
+ },
+ "BLKBRY_ADDON_01": {
+ "bundleTitle": "Blackberry"
+ },
+ "PROSF_APER_202535_DAT_01": {
+"bundleTitle": "Dual-use offer"
+ },
+ "PROSF_100LEPTA_01": {
+"bundleTitle": "100' Offer"
+ },
+ "BB_EXTRA_01": {
+ "bundleTitle": "Blackberry"
+ },
+ "GESTURE_OFFER_MB_IDATA_RPS": {
+ "bundleTitle": "Mobile Internet Offer"
+ },
+ "GESTURE_OFFER_MB_ANYWAY_RPS": {
+ "bundleTitle": "Mobile Internet Offer"
+ },
+ "GESTURE_OFFER_MB_IOTG_RPS": {
+ "bundleTitle": "Mobile Internet Offer"
+ },
+ "GESTURE_OFFER_MB_VOICE_RPS": {
+ "bundleTitle": "Mobile Internet Offer"
+ },
+ "PROSF_DBLUSGOFR_MAY2014_DATA": {
+"bundleTitle": "Dual-use offer"
+ },
+ "PROSF_DBLUSGOFR_MAY2014_VOICE": {
+"bundleTitle": "Dual-use offer"
+ },
+ "PROSF_XSIM2GB_MAY2014_DATA": {
+"bundleTitle": "Extra SIM offer with 2 GB"
+ },
+ "BUS_DBLUSG_MBYTES_MAY14_02": {
+ "bundleTitle": "Double the MB in COSMOTE Business"
+ },
+ "HOLYGHOST_OFFER_MIN": {
+"bundleTitle": "Offer 400 cents"
+ },
+ "HOLYGHOST_OFFER_SMS": {
+"bundleTitle": "Three-day offer"
+ },
+ "HOLYGHOST_OFFER_DATA_DP": {
+ "bundleTitle": "Internet Day Pass"
+ },
+ "HOLYGHOST_OFFER_DATA_MB": {
+"bundleTitle": "400 MB offer"
+ },
+ "PRE2POST_MB_T12": {
+"bundleTitle": "500 MB Gift Offer"
+ },
+ "SPOTIFY_ADDON_1": {
+ "bundleTitle": "Spotify"
+ },
+ "NEW_FAMILY_EXTRA_2GB_1": {
+ "bundleTitle": "Family Giga Now Month 3GB"
+ },
+ "NEW_FAMILY_EXTRA_1GB_1": {
+ "bundleTitle": "Family Giga Now Month 2GB"
+ },
+ "NEW_FAMILY_EXTRA_500MB_1": {
+ "bundleTitle": "Family Extra 500"
+ },
+ "FU_SMS_BNDL1000": {
+ "bundleTitle": "SMS 1000 package"
+ },
+ "FU_ADDON_600_600": {
+"bundleTitle": "Package 600 ' & 600 SMS"
+ },
+ "FU_INTERNET_OTP_1": {
+ "bundleTitle": "COSMOTE Internet Monthly Pass"
+ },
+ "IOTG_WIRELESS_ADDON_1": {
+ "bundleTitle": "Wireless Internet"
+ },
+ "SMS_ADDON_70": {
+"bundleTitle": "COSMOTE SMS 70 Package"
+ },
+ "SMS_ADDON_150": {
+"bundleTitle": "COSMOTE SMS 150 package"
+ },
+ "SMS_ADDON_300": {
+"bundleTitle": "COSMOTE SMS 300 package"
+ },
+ "DSB_1": {
+ "bundleTitle": "COSMOTE Mobile Internet"
+ },
+ "EXTRA_200_MB_IOTG": {
+ "bundleTitle": "Extra 200MB Package"
+ },
+ "Extra_500_MB_IOTG": {
+ "bundleTitle": "Extra 500MB Package"
+ },
+ "EXTRA_200_MB_ANYWAY": {
+ "bundleTitle": "Extra 200MB Package"
+ },
+ "EXTRA_500_MB_ANYWAY": {
+ "bundleTitle": "Extra 500MB Package"
+ },
+ "EXTRA_100_MB": {
+ "bundleTitle": "Extra 100MB Package"
+ },
+ "EXTRA_60_SMS": {
+"bundleTitle": "Extra 60 SMS Package"
+ },
+ "EXTRA_30_MINUTES": {
+ "bundleTitle": "Extra 30 Minutes Package"
+ },
+ "MY_COUNTRY_1": {
+"bundleTitle": "COSMOTE International Package"
+ },
+ "SIMO_FU_01": {
+"bundleTitle": "20 Cents Package instead of subsidy"
+ },
+ "MY_COUNTRY_2": {
+"bundleTitle": "COSMOTE International Cyprus Package"
+ },
+ "FAMILY_1500_VOICE_1": {
+ "bundleTitle": "Family package"
+ },
+ "FAMILY_1500_MSGS_1": {
+ "bundleTitle": "Family package"
+ },
+ "EXTRA_750_MB_IOTG": {
+"bundleTitle": "Extra 750 MB package"
+ },
+ "EXTRA_750_MB_VOICE": {
+"bundleTitle": "Extra 750 MB package"
+ },
+ "EXTRA_200_MB_VOICE": {
+"bundleTitle": "Extra 200 MB Package"
+ },
+ "EXTRA_750_MB_ANYWAY": {
+"bundleTitle": "Extra 750 MB package"
+ },
+ "DOUBLE_VOICE_OFR_OTH_NAT_01": {
+"bundleTitle": "Double Minutes Offer"
+ },
+ "DOUBLE_VOICE_OFR_OTH_MOB_01": {
+"bundleTitle": "Double Minutes Offer"
+ },
+ "EXTRA_100_SMS_20130328": {
+ "bundleTitle": "Extra 100 SMS Package"
+ },
+ "EXTRA_60_MIN_20130328": {
+ "bundleTitle": "Extra 60 Minutes Package"
+ },
+ "XMAS_DATA_GIFT_1": {
+ "bundleTitle": "Christmas Offer"
+ },
+ "XMAS_SMS_GIFT_1": {
+ "bundleTitle": "Christmas Offer"
+ },
+ "NEW_VOICE_ADHOC_100MIN": {
+ "bundleTitle": "Extra 100'"
+ },
+ "NEW_EXTRA_RETAIL_150MB": {
+ "bundleTitle": "Extra 150MB Package"
+ },
+ "NEW_EXTRA_RETAIL_300MB": {
+ "bundleTitle": "Extra 500MB Package"
+ },
+ "NEW_EXTRA_RETAIL_1GB": {
+ "bundleTitle": "Giga Now Month 4GB"
+ },
+ "COSMOTEONE_500MB_01": {
+ "bundleTitle": "COSMOTE ONE Free 500MB"
+ },
+ "BUSINESS_500MB": {
+"bundleTitle": "500MB gift"
+ },
+ "BUSINESS_50_SMS": {
+ "bundleTitle": "50 SMS"
+ },
+ "BUSINESS_60_International": {
+"bundleTitle": "60' gift to International"
+ },
+ "DOUBLEPLAY_EXTRA_5GB_1": {
+ "bundleTitle": "Extra 15GB from COSMOTE HOME DP SIM"
+ },
+ "DOUBLEPLAY_EXTRA_10GB_1": {
+ "bundleTitle": "Extra 30GB from COSMOTE HOME DP SIM"
+ },
+ "TIMER_OFFER_2016_WK": {
+"bundleTitle": "10GB offer for PSKD"
+ },
+ "TIMER_OFFER_2019_WK_VISA": {
+"bundleTitle": "10GB offer for PSKD"
+ },
+ "TIMER_OFFER_2016_24H": {
+ "bundleTitle": "GIGA NOW DAY UNLIMITED"
+ },
+ "RCS_EY_500_MB": {
+ "bundleTitle": "Message+ & Call+ 500MB"
+ },
+ "RCS_EY_200_MB": {
+ "bundleTitle": "Message+ & Call+ 200MB"
+ },
+ "RCS_EY_300_MB": {
+ "bundleTitle": "Message+ & Call+ 300MB"
+ },
+ "EXTRA_150_MIN_20170205": {
+ "bundleTitle": "Extra 150'"
+ },
+ "EASTER_OFFER_3GB_01": {
+ "bundleTitle": "3GB Easter offer "
+ },
+ "AEGEAN_500MB_01": {
+"bundleTitle": "500MB offer"
+ },
+ "XMAS_GESTURE_VOICE_1500_MIN": {
+ "bundleTitle": "Gift 1500' to All"
+ },
+ "GROUPRPS_COFU_DATA": {
+ "bundleTitle": "10GB for employees"
+ },
+ "SPEED_BOOSTER_DATA_01": {
+ "bundleTitle": "Speed Booster"
+ },
+ "CRM_GIFT_200_MINS": {
+ "bundleTitle": "Gift 200'"
+ },
+ "CRMGIFT_MB": {
+ "bundleTitle": "Free 500MB"
+ },
+ "MASTERCARD750_MB": {
+ "bundleTitle": "Mastercard 750MB"
+ },
+ "MASTERCARD50_MB": {
+ "bundleTitle": "Mastercard 50MB"
+ },
+ "MASTERCARD200_MB": {
+ "bundleTitle": "Mastercard 200MB"
+ },
+ "AEGEAN_500MB_02": {
+"bundleTitle": "500MB offer"
+ },
+ "OFFPEAK_SHARED_BUNDLES_01": {
+"bundleTitle": "Mobile Internet from 00:00 - 08:00"
+ },
+ "OFFPEAK_RATEPLANS_1P5GB_01": {
+ "bundleTitle": "COSMOTE Mobile Internet 2GB"
+ },
+ "OFFPEAK_RATEPLANS_700MB_01": {
+ "bundleTitle": "COSMOTE Mobile Internet 700MB"
+ },
+ "OFFPEAK_RATEPLANS_40GB_01": {
+ "bundleTitle": "COSMOTE Mobile Internet 40GB"
+ },
+ "OFFPEAK_RATEPLANS_25GB_01": {
+ "bundleTitle": "COSMOTE Mobile Internet 25GB"
+ },
+ "OFFPEAK_RATEPLANS_12GB_01": {
+ "bundleTitle": "COSMOTE Mobile Internet 12GB"
+ },
+ "OFFPEAK_RATEPLANS_6GB_01": {
+ "bundleTitle": "COSMOTE Mobile Internet 6GB"
+ },
+ "OFFPEAK_RATEPLANS_2P5GB_01": {
+ "bundleTitle": "COSMOTE Mobile Internet 2,5GB"
+ },
+ "OFFER500_MB": {
+ "bundleTitle": "1GB offer "
+ },
+ "DOUBLEPLAY_DATA_1": {
+ "bundleTitle": "HOME DOUBLE PLAY SIM"
+ },
+ "SMS_500": {
+ "bundleTitle": "500 SMS"
+ },
+ "COSMOTEONE_OTETV_5GB_01": {
+ "bundleTitle": "COSMOTE TV GO"
+ },
+ "EXTRA_10GB_ISLA": {
+ "bundleTitle": "Extra 10GB"
+ },
+ "PLAY_NOW_5GB": {
+ "bundleTitle": "Play Now 5GB"
+ },
+ "CHAT_NOW_2GB": {
+ "bundleTitle": "Chat Now 5GB"
+ },
+ "SOCIAL_NOW_2GB": {
+ "bundleTitle": "Social Now 5GB"
+ },
+ "NEW_GIGA_2GB": {
+"bundleTitle": "Giga Now Month 2GB Offer"
+ },
+ "MASTERCARD1000_MB_2017": {
+ "bundleTitle": "Mastercard 1000MB"
+ },
+ "MASTERCARD250_MB_2017": {
+ "bundleTitle": "Mastercard 250MB"
+ },
+ "REMEDY_200_MB": {
+"bundleTitle": "Free 200MB plan"
+ },
+ "GESTURE_BUNDLE_1000MIN": {
+"bundleTitle": "1000's package offer"
+ },
+ "GESTURE_BUNDLE_500MIN": {
+"bundleTitle": "500's package offer"
+ },
+ "GESTURE_BUNDLE_1GB": {
+ "bundleTitle": "1GB package offer "
+ },
+ "GESTURE_BUNDLE_500MB": {
+"bundleTitle": "500MB package offer"
+ },
+ "NEW_EXTRA_MI_3GB": {
+ "bundleTitle": "Giga Now Month 6GB"
+ },
+ "NEW_EXTRA_BUSINESS_3GB": {
+ "bundleTitle": "Giga Now Month 6GB"
+ },
+ "NEW_EXTRA_XTRASIM_3GB": {
+ "bundleTitle": "Giga Now Month 3GB from Extra SIM"
+ },
+ "NEW_EXTRA_ANYWAY_3GB": {
+ "bundleTitle": "Giga Now Month 6GB"
+ },
+ "NEW_EXTRA_3GB": {
+ "bundleTitle": "Giga Now Month 6GB"
+ },
+ "EXTRA_DATA_PACK_100GB": {
+ "bundleTitle": "Extra 300GB from COSMOTE HOME DOUBLE PLAY SIM"
+ },
+ "C1_1_GB": {
+ "bundleTitle": "Free 1GB Offer "
+ },
+ "C1_500_MB": {
+"bundleTitle": "Free 500MB Offer"
+ },
+ "C1_100_MIN_TO_ALL": {
+"bundleTitle": "Free 100 minutes offer"
+ },
+ "C1_200_MIN_TO_ALL": {
+"bundleTitle": "Free 200 minutes offer"
+ },
+ "STREAMON": {
+ "bundleTitle": "Play Now Unlimited"
+ },
+ "CRM_1GB_1_month": {
+ "bundleTitle": "1GB OFFER "
+ },
+ "NEW_EXTRA_4GB": {
+"bundleTitle": "Giga Now Month 4GB Offer"
+ },
+ "DIGITAL_OFFER_1GB": {
+ "bundleTitle": "Welcome 1GB Offer "
+ },
+ "RENEWAL_300_MB_COMBO": {
+"bundleTitle": "300 MB Fidelity Gift"
+ },
+ "RENEWAL_30_MIN_TO_ALL_COMBO": {
+"bundleTitle": "Loyalty Gift 30 minutes"
+ },
+ "RENEWAL_1_GB": {
+"bundleTitle": "1 gB loyalty gift"
+ },
+ "RENEWAL_500_MB": {
+"bundleTitle": "500 MB Fidelity Gift"
+ },
+ "RENEWAL_50_MIN_TO_ALL_COMBO": {
+"bundleTitle": "Fidelity Gift 50 minutes"
+ },
+ "RENEWAL_100_MIN_TO_ALL": {
+"bundleTitle": "Loyalty Gift 100 minutes"
+ },
+ "RENEWAL_200_MIN_TO_ALL": {
+"bundleTitle": "Loyalty Gift 200 minutes"
+ },
+ "RENEWAL_300_MIN_COS": {
+"bundleTitle": "Loyalty Gift 300 minutes"
+ },
+ "Permanent18": {
+"bundleTitle": "GIGA NOW OFFER 5GB"
+ },
+ "B2C_PLATIN_DATA_UNLIMIT_1": {
+ "bundleIndicator": "AFTER THE CONSUMPTION OF 20GB, INTERNET NAVIGATION WILL BE DONE WITH A MAXIMUM SPEED OF 1.7ΜBps"
+ },
+ "B2C_SEP_2018_RENEW_MIN_1": {
+ "bundleTitle": "BONUS 200'"
+ },
+ "B2C_SEP_2018_RENEW_MB_2": {
+ "bundleTitle": "BONUS 1GB"
+ },
+ "PWC_BONUS_DATA": {
+ "bundleTitle": "BONUS 1GB"
+ },
+ "PWC_BONUS_VOICE": {
+ "bundleTitle": "BONUS 200'"
+ },
+ "FAML_CMFN_VOICE_UNL": {
+"bundleTitle": "Program Minutes'"
+ },
+ "FAML_CMFN_SMS": {
+ "bundleTitle": " Program SMS"
+ },
+ "FAML_CMFN_DATA": {
+ "bundleTitle": " Program MB"
+ },
+ "C1_ONE_DKB13_DATA": {
+ "bundleTitle": "Free 5GB Offer "
+ },
+ "C1_ONE_DKB14_DATA": {
+"bundleTitle": "Free 10GB Offer"
+ },
+ "WUDataShare": {
+ "bundleTitle": "3GB gift "
+ },
+ "toUNLIMITED": {
+ "bundleTitle": "UNLIMITED"
+ },
+ "voicetoUNLIMITED": {
+ "bundleTitle": "UNLIMITED"
+ },
+ "COSMO_PAYMENTS": {
+ "bundleTitle": "Free Unlimited Data"
+ },
+ "UnlimCCMS2": {
+ "bundleTitle": "Free Unlimited Data"
+ }
+ },
+ "ibuInstallationInfo": {
+ "ibuInstallationTitle1": "Necessary equipment",
+"ibuInstallationTitle2": "Οpen the USB cover",
+"ibuInstallationTitle3": "Insert SIM card into USB Stick",
+ "ibuInstallationTitle4": "Close the USB cover",
+"ibuInstallationTitle5": "Connect the USB to the router",
+"ibuInstallationTitle6": "Remove the ISP cable",
+"ibuInstallationTitle7": "Confirm that the USB light is on",
+ "ibuInstallationTitle8": "Confirm that the router is working properly",
+ "ibuInstallationTitle9": "Connect the ISP cable",
+ "ibuInstallationText1": "Make sure you have the USB Stick and the special SIM card necessary for the installation process",
+"ibuInstallationText2": "Remove the protection cap of the USB Stick, then slide the front cover down, as indicated by the arrows.",
+ "ibuInstallationText3": "Insert the special SIM card, which does not require a PIN code, into the corresponding slot on the USB Stick. <br /><br /> CAUTION: The oblique edge of the SIM card should align correctly with the corresponding edge of the SIM card slot.",
+ "ibuInstallationText4": "Replace the front cover, dragging it up, in the direction indicated by the arrow, until it returns to its original position.",
+"ibuInstallationText5": "Insert the USB Stick into the corresponding port of your Landline router.<br /><br />The COSMOTE Internet Backup service will be ready for use in less than one (1) minute, as soon as the USB Stick light starts flashing (1) every two (2) seconds. <br/><br /><br />*The actual model of your router may be different from the one shown in the picture.<br />**The color of the USB Stick light indicates the COSMOTE Mobile network to which you have connected (Light Blue: 4G, Blue: 3G, Green: 2G).",
+"ibuInstallationText6": "Discontinue broadband access over a Fixed network by removing the supply cable \"DSL\" from the router port with the corresponding indication.<br /><br/><br />*The location of the port \"DSL\" depends on the model of router you have.",
+"ibuInstallationText7": "After two (2) minutes, confirm the restoration of broadband access over the Mobile network. The bright light of the USB Stick, in this case, will be solidly lit. <br/><br /><br />*The colour indicator of the lamp shall be indicative.",
+"ibuInstallationText8": "After two (2) minutes, confirm the smooth operation of your services, through the lights of your router. <br /><br />On the router in the image, the \"Online\" & \"Telephony\" lights will come back and remain solidly lit. <br /><br /><br/>*During the operation of the COSMOTE Internet Backup service and depending on the router model that you have, the light indicating the provision of broadband access over a Landline network will be off or blinking. ",
+"ibuInstallationText9": "After confirming the operation of the service, reconnect the \"DSL\" supply cable to the router in order to restore broadband access over a Fixed network. In this case, the lights of the router will come back and remain solid.",
+ "ibuInstallationText10": "You have completed all the steps to install COSMOTE Internet Backup!"
+ },
+ "ibuOfferBannerModel": {
+ "productId": "prod2270027_prod",
+ "imagePath": "ibu_offer",
+"title": "Never run out of Internet access!",
+ "description": "Internet Backup only with "
+ },
+ "f2rInfo": {
+ "isNoSyncGuideVisible": true,
+ "isNoSignalGuideVisible": true,
+"routerConnect1": "Follow the steps below. (Applies to broadband connections)",
+ "routerConnect2": "Connect the telephone branch (T) to the telephone socket and filter to one of its two ports.",
+ "routerConnect3": "Connect your telephone device to the filter port.",
+"routerConnect4": "Connect one end of the blue telephone cable to one of the two ports of the telephone branch and its other end to the blue port of the splitter marked \"LINE\".",
+ "routerConnect5": "Connect one end of the gray telephone cable to the port of the splitter that reads MODEM (gray port) and its other end to the DSL port on the back of the router.",
+ "routerConnect6": "Connect one end of the black telephone cable to the port of the splitter that reads PHONE (black port) and its other end to the back of the router on the Phone 2.",
+"routerConnect7": "Connect the power supply to the Power port (black port) on the back of the equipment (router) and the other end to a power outlet.",
+"meshConnect1": "Speed Home WiFi extends the range of the WiFi network by achieving uninterrupted WiFi in all areas of your home. Follow the steps to connect it to your Speedport Smart and find the optimal location to install it.",
+"meshConnect2": "Plug in the power outlet the Speed Home WiFi, which should be up to 2 meters from the Speedport Smart, without any obstruction, and activate it from the ON/OFF option.",
+"meshConnect3": "Wait until the Status and Signal lights stay on.",
+"meshConnect4": "Press WPS on the back of the Speed Home WiFi and then the Register/WPS of the router. Register/WPS on Speedport Smart and Mesh and Repeater on Speed Home WiFi will start flashing.",
+"meshConnect5": "When all indicators are stabilized, the connection is complete. If the Signal indicator starts flashing, then a software upgrade is performed. It will restart and then all the indicators will light up steadily.",
+ "meshConnect6": "The optimal location is usually halfway between Speedport Smart and the area with poor coverage. Follow the next steps to find the optimal location of Speed Home WiFi in your home.",
+"meshConnect7": "To find the optimal position:<br />1. Unplug your Speed Home WiFi from the wall outlet.<br/>2. Connect your phone to the WiFi of the Speedport Smart.<br/>3. Select \"Search for optimal location\" to start the process.",
+ "isMeshVisible": true,
+ "wifiProblem1": "All models of equipment (router) are set to have the maximum wireless transmission range. However, with the following instructions you can improve the wireless download quality for your home and you may find the solution you need.",
+"wifiProblem2": "Place the router in a central telephone socket in your area, so that it is at the shortest possible distance from your devices (laptop, tablet, mobile phone).",
+"wifiProblem3": "Remove, if available, a wireless broadcast source (e.g. the base of the cordless phone, Bluetooth speaker, wireless controllers, baby monitors, microwave) more than 1.5 meters away as electromagnetic interference is likely to occur.",
+"wifiProblem4": "It is advisable not to place the router in a closet or loft, but in some open place on the site. Avoid placing it next to an aquarium or on metal surfaces and mirrors, materials that reflect radio waves and reduce its range.",
+ "wifiProblem5": "If you haven't found the solution you need, below you can find more options.",
+ "routerModelsList": [
+ {
+ "name": "Speedport Plus",
+ "url":
+"https://help.cosmote.gr/system/templates/selfservice/gnosisgr/files2/QIG_Speedport_Plus_November2018.pdf"
+ },
+ {
+ "name": "Speedport Smart",
+ "url":
+"https://help.cosmote.gr/system/templates/selfservice/gnosisgr/Files2/manual%20speedport%20smart%20router%20_INTER.pdf"
+ },
+ {
+ "name": "Speed Home Wifi",
+ "url":
+"https://help.cosmote.gr/system/templates/selfservice/gnosisgr/Files2/manual%20speedhome%20wifi%20_INTER.pdf"
+ },
+ {
+ "name": "ZTE H1600",
+ "url":
+"https://help.cosmote.gr/system/templates/selfservice/gnosisgr/Files2/MANUAL_ZTE_H1600_NEW_DIGITAL.pdf"
+ },
+ {
+ "name": "SpeedBooster 2.0/Hybrid Access",
+ "url":
+"https://help.cosmote.gr/system/templates/selfservice/gnosisgr/Files2/Manual_SPEEDBOOSTER_Internet.pdf"
+ },
+ {
+ "name": "HA35-10/11 Hybrid Access",
+ "url":
+"https://help.cosmote.gr/system/templates/selfservice/gnosisgr/Files2/HUAWEI_HA35_10_11_%CE%9F%CE%94%CE%97%CE%93%CE%99%CE%95%CE%A3_%CE%95%CE%93%CE%9A%CE%91%CE%A4%CE%91%CE%A3%CE%A4%CE%91%CE%A3%CE%97%CE%A3.pdf"
+ },
+ {
+ "name": "Speedport Entry 2i",
+ "url":
+"https://help.cosmote.gr/system/templates/selfservice/gnosisgr/Files2/QIG_Entry2i_November2018.pdf"
+ },
+ {
+ "name": "Speedport W 724V Type Ci",
+ "url":
+"https://help.cosmote.gr/system/templates/selfservice/gnosisgr/Files2/SPEEDPORT_W724V_CI_%CE%9F%CE%94%CE%97%CE%93%CE%99%CE%95%CE%A3_%CE%95%CE%93%CE%9A%CE%91%CE%A4%CE%91%CE%A3%CE%A4%CE%91%CE%A3%CE%97%CE%A3_GR.pdf"
+ }
+ ]
+ },
+ "impServiceIds": [
+ "1126",
+ "1125",
+ "1110",
+ "1109",
+ "1108",
+ "1107",
+ "1106",
+ "1105",
+ "463",
+ "351",
+ "266",
+ "265",
+ "229",
+ "228",
+ "227",
+ "226",
+ "225",
+ "224",
+ "223",
+ "222",
+ "221",
+ "220",
+ "210",
+ "209",
+ "208",
+ "207",
+ "206",
+ "205",
+ "204",
+ "203",
+ "202",
+ "201",
+ "200",
+ "199",
+ "198",
+ "197",
+ "163",
+ "141",
+ "83",
+ "21",
+ "12"
+ ],
+ "quickActionsV2": [
+ {
+ "id": "deals_for_you",
+ "position": 1,
+ "visible": true
+ },
+ {
+ "id": "order_status",
+ "position": 2,
+ "visible": true
+ },
+ {
+ "id": "router_management",
+ "position": 3,
+ "visible": true
+ },
+ {
+ "id": "report_a_fault",
+ "position": 4,
+ "visible": true
+ },
+ {
+ "id": "support_chat",
+ "position": 5,
+ "visible": false
+ },
+ {
+ "id": "pay_bill_third_party",
+ "position": 6,
+ "visible": true
+ },
+ {
+ "id": "top_up_third_party",
+ "position": 7,
+ "visible": true
+ },
+ {
+ "id": "service_shops",
+ "position": 8,
+ "visible": true
+ }
+ ],
+ "warnings": {
+ "daysBeforeBalanceExpiration": 5,
+ "daysBeforeRechargeExpiration": 5
+ },
+ "neoIntroScreen": {
+ "portIn": {
+"title": "Get the <b>new digital mobile plan, COSMOTE Neo</b>, by following these simple steps:",
+ "buttonText": "Discover it",
+ "steps": [
+ {
+ "image": "neo_diy",
+ "text": "Shape your plan the way you want."
+ },
+ {
+ "image": "neo_email",
+"text": "Fill in your e-mail."
+ },
+ {
+ "image": "neo_avatar_with_check",
+"text": "You can identify your data online, easily and simply, from your mobile phone."
+ },
+ {
+ "image": "neo_sim",
+ "text": "Get your new SIM card and activate it."
+ },
+ {
+ "image": "neo_phone",
+ "text": "Start communicating, in your own unique way!"
+ }
+ ],
+ "upperLeftImageV2": "neo-green-background-V2",
+ "upperLeftImage": "neo-green-background",
+ "lowerRightImageV2": "neo-blue-background-V2",
+ "lowerRightImage": "neo-blue-background"
+ },
+ "newNeo": {
+"title": "Get the <b>new digital mobile plan, COSMOTE Neo</b>, by following these simple steps:",
+ "buttonText": "Discover it",
+ "steps": [
+ {
+ "image": "neo_diy",
+ "text": "You shape your plan the way you want."
+ },
+ {
+ "image": "neo_email",
+"text": "You fill in your e-mail."
+ },
+ {
+ "image": "neo_avatar_with_check",
+"text": "You can identify yourself online, easily and simply, from your mobile phone."
+ },
+ {
+ "image": "neo_sim",
+ "text": "Get your new SIM card and activate it."
+ },
+ {
+ "image": "neo_phone",
+ "text": "Start communicating, in your own unique way!"
+ }
+ ],
+ "upperLeftImageV2": "neo-green-background-V2",
+ "upperLeftImage": "neo-green-background",
+ "lowerRightImageV2": "neo-blue-background-V2",
+ "lowerRightImage": "neo-blue-background"
+ },
+ "pre2Neo": {
+"title": "Get the <b>new digital mobile plan, COSMOTE Neo</b>, by following these simple steps:",
+ "buttonText": "Discover it",
+ "steps": [
+ {
+ "image": "neo_diy",
+ "text": "Shape your plan the way you want."
+ },
+ {
+ "image": "neo_email",
+"text": "Fill in your e-mail."
+ },
+ {
+ "image": "neo_credit_card",
+ "text": "Enter your billing information."
+ },
+ {
+ "image": "neo_phone",
+ "text": "Start communicating, in your own unique way!"
+ }
+ ],
+ "upperLeftImageV2": "neo-green-background-V2",
+ "upperLeftImage": "neo-green-background",
+ "lowerRightImageV2": "neo-blue-background-V2",
+ "lowerRightImage": "neo-blue-background"
+ },
+ "post2Neo": {
+"title": "Get the <b>new digital mobile plan, COSMOTE Neo</b>, by following these simple steps:",
+ "buttonText": "Discover it",
+ "steps": [
+ {
+ "image": "neo_diy",
+ "text": "Shape your plan the way you want."
+ },
+ {
+ "image": "neo_email",
+"text": "Fill in your e-mail."
+ },
+ {
+ "image": "neo_sign",
+"text": "You can sign all the necessary documents online, for even greater convenience."
+ },
+ {
+ "image": "neo_credit_card",
+ "text": "Enter your billing information."
+ },
+ {
+ "image": "neo_phone",
+ "text": "Start communicating, in your own unique way!"
+ }
+ ],
+ "upperLeftImageV2": "neo-green-background-V2",
+ "upperLeftImage": "neo-green-background",
+ "lowerRightImageV2": "neo-blue-background-V2",
+ "lowerRightImage": "neo-blue-background"
+ },
+ "neoInfoScreen": {
+ "title": "The <b>100% digital mobile plan</b> in Greece.",
+ "buttonText": "See your options",
+ "steps": [
+ {
+ "image": "",
+"text": "Get away with really <b>lots of data.</b>"
+ },
+ {
+ "image": "",
+"text": "<b>Customize it</b>, however you want, according to your <b>needs.</b>"
+ },
+ {
+ "image": "",
+"text": "<b>cancel it</b> at any time, without <b>no commitment.</b>"
+ },
+ {
+ "image": "",
+"text": "<b>Manage it</b> exclusively from your <b>mobile.</b>"
+ },
+ {
+ "image": "",
+"text": "<br> <br> <b>Have you got it yet??</b>"
+ }
+ ],
+ "discountSteps": [
+ {
+ "image": "",
+"textSingular": "Relax with really <b>lots of data.</b>",
+"textPlural": "Relax with really <b>lots of data.</b>"
+ },
+ {
+ "image": "",
+"textSingular": "<b>Customize it</b>, as you want, according to <b>to your needs.</b>",
+"textPlural": "<b>Customize it</b>, as you want, according to <b>to your needs.</b>"
+ },
+ {
+ "image": "",
+"textSingular": "<b>cancel it</b> at any time, without <b>no commitment.</b>",
+"textPlural": "<b>cancel it</b> at any time without <b>no commitment.</b>"
+ },
+ {
+ "image": "",
+"textSingular": "<b>Manage it</b> exclusively from your <b>mobile.</b>",
+"textPlural": "<b>Manage it</b> exclusively from your <b>mobile.</b>"
+ },
+ {
+ "image": "",
+"textSingular": "<br> <br> With <b> {discount} discount</b> for the first month! <br> <b> What are you waiting for?</b>",
+"textPlural": "<br><br> With<b> {discount} discount</b> for the first few months!<br> <b> What are you waiting for?</b>",
+"neoFreeOfChargeText": "<br><br><b>With 100% off</b> for this month!<br> <b> What are you waiting for?</b>"
+ }
+ ],
+ "upperLeftImageV2": "neo-landing-parrot-V2",
+ "upperLeftImage": "neo-landing-parrot",
+ "lowerRightImageV2": "neo-landing-cat-V2",
+ "lowerRightImage": "neo-landing-cat"
+ }
+ },
+ "tvNamesAssociation": [
+ {
+ "productName": "COSMOTE TV OTT Monthly Packs",
+ "displayName": "COSMOTE TV Monthly Packs"
+ },
+ {
+ "productName": "COSMOTE TV OTT",
+ "displayName": "COSMOTE TV STREAMING"
+ },
+ {
+"productName": "COSMOTE TV OTT (Entry Pack) 12-month commitment (Sep. 19)",
+"displayName": "COSMOTE TV STREAMING (Entry Pack) 12-month commitment (Sep. 19)"
+ },
+ {
+"productName": "COSMOTE TV OTT (Cinema Pack) 12-month commitment (Sep. 19)",
+"displayName": "COSMOTE TV STREAMING (Cinema Pack) 12-month commitment (Sep. 19)"
+ },
+ {
+"productName": "COSMOTE TV OTT (Sports Pack) 12-month commitment (Sep. 19)",
+"displayName": "COSMOTE TV STREAMING (Sports Pack) 12-month commitment (Sep. 19)"
+ },
+ {
+"productName": "COSMOTE TV OTT (Full Pack) 12-month commitment (Sep. 19)",
+"displayName": "COSMOTE TV STREAMING (Full Pack) 12-month commitment (Sep. 19)"
+ },
+ {
+"productName": "COSMOTE TV OTT (Cinema Pack) Offer 1 12-month commitment (Sep.19)",
+"displayName": "COSMOTE TV STREAMING (Cinema Pack) Offer 1 12-month commitment(Sep. 19)"
+ },
+ {
+ "productName": "COSMOTE TV OTT (Full Pack) Offer 1 12months commitment (Sep.19)",
+"displayName": "COSMOTE TV STREAMING (Full Pack) Offer 1 12-month commitment (Sep.19)"
+ },
+ {
+"productName": "COSMOTE TV OTT (Full Pack) FREE Indefinite",
+"displayName": "COSMOTE TV STREAMING (Full Pack) FREE Indefinite"
+ },
+ {
+"productName": "COSMOTE TV OTT (Full Pack) Employee 12month commitment (Jan.20)",
+"displayName": "COSMOTE TV STREAMING (Full Pack) Employee 12-month commitment(Jan.20)"
+ },
+ {
+"productName": "COSMOTE TV OTT (Full Pack) Special Offer 12-month commitment (Oct.20)",
+"displayName": "COSMOTE TV STREAMING (Full Pack) Special Offer 12-month commitment(Oct. 20)"
+ },
+ {
+"productName": "COSMOTE TV OTT (Entry Pack) 12-month commitment (Dec. 20)",
+ "displayName": "COSMOTE TV STREAMING (Entry Pack)12-month commitment (Dec20)"
+ },
+ {
+"productName": "COSMOTE TV OTT (Entry Pack) 12-month commitment (Jan.21)",
+"displayName": "COSMOTE TV STREAMING (Entry Pack)12-month commitment (Jan.21)"
+ },
+ {
+"productName": "COSMOTE TV OTT (Sports Pack) 24-month commitment (Sep.21)",
+"displayName": "COSMOTE TV STREAMING (Sports Pack) 24-month commitment (Sep.21)"
+ },
+ {
+"productName": "COSMOTE TV OTT (Full Pack) 24-month commitment (Sep.21)",
+"displayName": "COSMOTE TV STREAMING (Full Pack)24-month commitment (Sep.21)"
+ },
+ {
+"productName": "COSMOTE TV OTT (Full Pack) for Pensioners 12-month commitment",
+"displayName": "COSMOTE TV STREAMING (Full Pack) for Pensioners 12-month commitment"
+ },
+ {
+"productName": "COSMOTE TV OTT (Catering Establishments) 12-month commitment",
+"displayName": "COSMOTE TV STREAMING (Restaurants) 12-month commitment"
+ },
+ {
+"productName": "COSMOTE TV OTT (Restaurants) 1+11 12month commitment",
+"displayName": "COSMOTE TV STREAMING (Restaurants) 1+11 12-month commitment"
+ },
+ {
+"productName": "COSMOTE TV OTT (Catering Establishments) – 6-month commitment",
+"displayName": "COSMOTE TV STREAMING (Restaurants) – 6-month commitment"
+ },
+ {
+ "productName": "COSMOTE TV OTT Professional without Sport channels 12month commitment",
+ "displayName": "COSMOTE TV STREAMING Professional without Sport channels 12month commitment"
+ },
+ {
+"productName": "COSMOTE TV OTT (OPAP Special Agreement)",
+"displayName": "COSMOTE TV STREAMING (OPAP Special Agreement)"
+ },
+ {
+"productName": "COSMOTE TV OTT (OPAP Special Agreement - 2nd Connection)",
+"displayName": "COSMOTE TV STREAMING (OPAP Special Agreement - 2nd Connection)"
+ },
+ {
+ "productName": "COSMOTE TV OTT (Restaurants) - Special Price up to 20 seats 12-month commitment",
+ "displayName": "COSMOTE TV STREAMING (Restaurants) - Special Price up to 20 seats 12-month commitment"
+ },
+ {
+ "productName": "COSMOTE TV OTT",
+ "displayName": "COSMOTE TV STREAMING"
+ },
+ {
+ "productName": "COSMOTE TV OTT Service",
+"displayName": "COSMOTE TV STREAMING Service"
+ },
+ {
+ "productName": "COSMOTE TV OTT Cinema Pack",
+ "displayName": "COSMOTE TV STREAMING Cinema Pack"
+ },
+ {
+ "productName": "COSMOTE mobile phone number",
+"displayName": "COSMOTE mobile phone number"
+ },
+ {
+"productName": "COSMOTE TV OTT discount",
+"displayName": "COSMOTE TV STREAMING discount"
+ },
+ {
+"productName": "Discount COSMOTE TV OTT extra device package",
+"displayName": "Discount COSMOTE TV STREAMING package extra devices"
+ },
+ {
+"productName": "COSMOTE TV OTT Mini Pack discount",
+"displayName": "COSMOTE TV STREAMING discount"
+ },
+ {
+"productName": "COSMOTE TV OTT package extra devices",
+"displayName": "COSMOTE TV STREAMING package extra devices"
+ },
+ {
+ "productName": "COSMOTE TV GO (Adult Pack)",
+ "displayName": "COSMOTE TV GO (Adult Pack)"
+ },
+ {
+ "productName": "COSMOTE TV OTT (Cinema Mini Pack)",
+ "displayName": "COSMOTE TV STREAMING (Cinema Mini Pack)"
+ },
+ {
+"productName": "COSMOTE TV OTT Mini Pack discount",
+ "displayName": "COSMOTE TV STREAMING Mini Pack discount"
+ },
+ {
+ "productName": "COSMOTE TV OTT (Documentaries Mini Pack)",
+ "displayName": "COSMOTE TV STREAMING (Documentaries Mini Pack)"
+ },
+ {
+ "productName": "COSMOTE TV OTT (Entertainment Pack)",
+ "displayName": "COSMOTE TV STREAMING (Entertainment Pack)"
+ },
+ {
+ "productName": "COSMOTE TV OTT (Greek Channels Mini Pack)",
+ "displayName": "COSMOTE TV STREAMING (Greek Channels Mini Pack)"
+ },
+ {
+ "productName": "COSMOTE TV OTT (Full Pack)",
+ "displayName": "COSMOTE TV STREAMING (Full Pack)"
+ },
+ {
+ "productName": "COSMOTE TV OTT (Full Pack) Employee",
+ "displayName": "COSMOTE TV STREAMING (Full Pack) Employee"
+ },
+ {
+ "productName": "COSMOTE TV OTT (Full Pack) Special Offer",
+ "displayName": "COSMOTE TV STREAMING (Full Pack) Special Offer"
+ },
+ {
+ "productName": "COSMOTE TV OTT (Full Pack) for Students",
+ "displayName": "COSMOTE TV STREAMING (Full Pack) for students"
+ },
+ {
+ "productName": "COSMOTE TV GO (Gift Pack)",
+ "displayName": "COSMOTE TV STREAMING (Gift Pack)"
+ },
+ {
+ "productName": "COSMOTE TV OTT (History Mini Pack)",
+ "displayName": "COSMOTE TV STREAMING (History Mini Pack)"
+ },
+ {
+ "productName": "COSMOTE TV OTT (Kids Mini Pack)",
+ "displayName": "COSMOTE TV STREAMING (Kids Mini Pack)"
+ },
+ {
+ "productName": "COSMOTE TV OTT (Sports Mini Pack)",
+ "displayName": "COSMOTE TV STREAMING (Sports Mini Pack)"
+ },
+ {
+ "productName": "COSMOTE TV OTT (Sports Pack)",
+ "displayName": "COSMOTE TV STREAMING (Sports Pack)"
+ },
+ {
+ "productName": "COSMOTE TV (Sports Daily Pass)",
+ "displayName": "COSMOTE TV (Sports Daily Pass)"
+ },
+ {
+ "productName": "COSMOTE TV GO (UEFA Pass)",
+ "displayName": "COSMOTE TV STREAMING (UEFA Pass)"
+ },
+ {
+ "productName": "Portability",
+ "displayName": "Portability1"
+ },
+ {
+"productName": "COSMOTE TV OTT Prepaid service",
+"displayName": "COSMOTE TV STREAMING Prepaid service"
+ },
+ {
+"productName": "COSMOTE TV OTT Prepaid package",
+"displayName": "COSMOTE TV STREAMING Prepaid Package"
+ },
+ {
+ "productName": "Package of Additional Devices with equipment",
+ "displayName": "Package of Additional Devices with Equipment"
+ },
+ {
+ "productName": "COSMOTE TV OTT Mini Packs",
+ "displayName": "COSMOTE TV STREAMING Mini Packs"
+ }
+ ],
+ "shopWordings": {
+ "renewalMultipleAssets": {
+"title": "You have renewal suggestions for your mobiles!",
+ "description": "Renew your contracts with the best offers we have for you."
+ },
+ "renewalSingleAsset": {
+ "description": "Renew your contract with the best offers we have for you."
+ },
+ "rateplanSingleAssetMultipleOffers": {
+ "description": "Upgrade your contract and unleash your communication."
+ },
+ "rateplanMultipleAssetsMultipleOffers": {
+"title": "You have offers for your mobile phones!",
+ "description": "Upgrade your contracts and unleash your communication."
+ },
+ "b2bRenewals": {
+ "title": "Corporate mobile connections",
+ "description": "Find the best suggestions for all your corporate connections!"
+ },
+ "pre2neoMultipleAssets": {
+ "title": "COSMOTE Neo",
+"description": "FREE 1 month COSMOTE Neo! Convert your prepaid phone until 15/02! Last Call!"
+ },
+ "pre2neoSingleAsset": {
+ "description": "FREE 1 month COSMOTE Neo! Convert your prepaid phone until 15/02! Last Call!"
+ },
+ "cosmoteOneCreation": {
+ "title": "COSMOTE One",
+"description": "Do you have a mobile and landline? You have unique privileges!"
+ },
+ "cosmoteBusinessOneCreation": {
+ "title": "COSMOTE Business One",
+"description": "Create COSMOTE Business One for free now and enjoy unique privileges!"
+ },
+ "pre2postSingleAsset": {
+ "description": "Turn your prepaid into a cost control."
+ },
+ "pre2postMultipleAssets": {
+ "title": "Convert to cost control",
+ "description": "Turn your prepaid into a cost control."
+ }
+ },
+ "promoCardWordingModels": [
+ {
+ "id": "payzy",
+ "title": "Make your payments with payzy by COSMOTE and win € to do whatever you want, without restrictions!",
+ "description": "Give more value to your transactions!"
+ }
+ ],
+ "loyaltyTutorialWordingModel": {
+ "whatsNew": {
+ "image": "loyalty_main_whats_new_image",
+ "title": "Thank you for your continued trust!",
+ "subtitle": "Discover unique COSMOTE DEALS for YOU offers, gifts and coupons exclusively for you:",
+ "buttonText": "Continue",
+ "items": [
+ {
+ "image": "loyalty_dfy_whats_new_image",
+ "title": "COSMOTE DEALS for YOU",
+ "description": "Unique offers to improve your everyday life!"
+ },
+ {
+ "image": "loyalty_gfy_whats_new_image",
+ "title": "GIFTS for YOU",
+ "description": "Gifts and coupons exclusively for you!"
+ }
+ ]
+ },
+ "tooltips": [
+ {
+ "enumType": "profile",
+ "title": "All your information",
+ "description": "Here you will find everything that concerns you. Notifications, personal details, cards & addresses!"
+ },
+ {
+ "enumType": "wallet",
+ "title": "My Rewards",
+ "description": "Find your active coupons and what you have won so far!"
+ },
+ {
+ "enumType": "dealsForYou",
+ "title": "COSMOTE DEALS for YOU",
+ "description": "Get a code now and take advantage of exclusive affiliate offers!"
+ },
+ {
+ "enumType": "giftsForYou",
+ "title": "GIFTS for YOU",
+ "description": "Find the gifts and coupons that COSMOTE has secured for you!"
+ }
+ ]
+ },
+ "ineligibilityReasons": {
+ "HAS_NOT_RECHARGED": {
+ "reasonTitle": "My COSMOTE",
+ "reasonDescription": "For activation to take place, you'll need to do top-up."
+ },
+ "REACHED_ACTIVE_LIMIT": {
+ "reasonTitle": "Unable to activate",
+ "reasonDescription": "You have already activated the service."
+ },
+ "TOO_MANY_PROVISIONED_BUNDLES": {
+ "reasonTitle": "Unable to activate",
+ "reasonDescription": "You will be able to turn it back on, starting on the 1st of the following month."
+ },
+ "REACHED_ACTIVE_LIMIT_MULTIPLE": {
+ "reasonTitle": "Important update!",
+"reasonDescription": "You have reached the roaming packet limit. You can have up to 4 packages activated."
+ },
+ "TOO_MANY_PROVISIONED_BUNDLES_DATAMENOW": {
+ "reasonTitle": "My COSMOTE",
+"reasonDescription": "You will be able to turn it back on, starting on the 1st of next month."
+ },
+ "REACHED_ACTIVE_LIMIT_DATAMENOW": {
+ "reasonTitle": "Unable to activate",
+ "reasonDescription": "The service cannot be activated at this time."
+ }
+ }
+}
